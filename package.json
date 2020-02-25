@@ -1,0 +1,11 @@
+{
+  "name": "casefile-datamaps",
+  "version": "1.0.0",
+  "description": "Maps and graphs using Casefile true crime information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haley sulcer",
+  "license": "ISC"
+}
