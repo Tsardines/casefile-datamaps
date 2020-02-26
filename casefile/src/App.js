@@ -1,14 +1,29 @@
 import React from 'react';
-import * as jsonData from './data/casefile-json.json';
+import { BrowserRouter, Route, Switch } from "react-router-dom";
+
+import 'bulma/css/bulma.css'
+import 'react-bulma-components/dist/react-bulma-components.min.css';
+
+import Header from "./components/Header.js";
+import crimeMap from "./components/crimeMap.js";
+// import * as jsonData from './data/casefile-json.json';
+
 import './App.css';
 
 function App() {
 		return (
-      <ul>
-        {jsonData.Cases.map(function(case) (
-          <li>{case.Perpetrator}</li>
-        ))}
-      </ul>
+      <BrowserRouter>
+      <div className="App">
+        <Header />
+          <Switch>
+            <Route path="/crime_map" component={crimeMap} exact />
+            {/* <Route path="/episode_ratings" component={ratings} exact /> */}
+
+            {/* <Route component={error} /> */}
+          </Switch>  
+          {/* <Footer />         */}
+      </div>
+    </BrowserRouter>
     )
 } 
 
