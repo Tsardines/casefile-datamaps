@@ -1,8 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
-import 'bulma/css/bulma.css'
-import 'react-bulma-components/dist/react-bulma-components.min.css';
+// import 'bulma/css/bulma.css'
+// import 'react-bulma-components/dist/react-bulma-components.min.css';
+
+import "./components/Header.css";
 
 import Header from "./components/Header.js";
 import crimeMap from "./components/crimeMap.js";

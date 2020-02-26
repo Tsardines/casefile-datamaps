@@ -1,4 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
+
+import "./Header.css";
 
 import {
     Collapse,
@@ -28,15 +30,15 @@ import {
     render() {
       return (
 
-          <Navbar color="dark" dark expand="md">
+          <Navbar class="nav_container" dark expand="md">
 
             {/* <NavbarToggler onClick={this.toggle} /> */}
             <Collapse isOpen={this.state.isOpen} navbar>
             
-              <Nav className="ml-auto" navbar>
+              <Nav className="mr-auto" navbar>
   
                 <NavItem>
-                    <NavLink href="/">Casefile App</NavLink>
+                    <NavLink href="/">Home</NavLink>
                 </NavItem>
 
                 <NavItem>
