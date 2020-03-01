@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ReactMapGL, { Marker, Popup } from "react-map-gl";
+// import mapboxgl from 'mapbox-gl/dist/mapbox-gl'
 import * as crimeData from "../data/casefile-json.json";
 
 // import { Button, Box } from 'react-bulma-components';
@@ -10,7 +11,7 @@ export default function CrimeMap() {
     longitude: 0.0000003,
     width: '100vw',
     height: '100vh',
-    zoom: 11
+    zoom: 10
   })
 
   const [selectedLocation, setSelectedLocation] = useState(null);
@@ -45,7 +46,7 @@ export default function CrimeMap() {
           longitude={crime.geometry.y}
          >
           <button 
-           class="marker-btn" 
+           className="marker-btn" 
            onClick={(e) => {
               e.preventDefault();
               setSelectedLocation(crime);
