@@ -77,17 +77,13 @@ export default function CrimeMap() {
             setSelectedLocation(null);
           }}
         >
-          <table>
-            <tr>
-              <th>{selectedLocation.attributes.CaseName}</th>
-            </tr>
-          </table>
-          {/* <div>
-            <h3> </h3>
-            <p>{selectedLocation.attributes.CityOfCrime}, {selectedLocation.attributes.CountryOfCrime}</p>
-            <p>{selectedLocation.attributes.VictimName}</p>
-            <p>{selectedLocation.attributes.SolvedOrUnsolved}</p>
-          </div> */}
+          <div className="crime_popup">
+            <h3>Ep. {selectedLocation.attributes.FID}: {selectedLocation.attributes.CaseName}</h3>
+            <p><b>Location: </b>{selectedLocation.attributes.CityOfCrime}, {selectedLocation.attributes.CountryOfCrime}</p>
+            <p className="victim_names"><b>Victim(s): </b>{selectedLocation.attributes.VictimName}</p>
+            <p><b>Status: </b>{selectedLocation.attributes.SolvedOrUnsolved}</p>
+          </div>
+
         </Popup>
        ) : null }
      </ReactMapGL>

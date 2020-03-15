@@ -12,3 +12,7 @@
 .mapboxgl-popup-close-button {
     font-size: 1.75rem;
 }
+
+.crime_popup {
+    width: 20rem;
+}
