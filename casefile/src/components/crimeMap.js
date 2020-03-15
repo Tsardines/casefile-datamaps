@@ -1,21 +1,24 @@
 import React, { useState, useEffect } from 'react';
 import ReactMapGL, { Marker, Popup } from "react-map-gl";
 
-import * as crimeData from "../data/casefile-json.json";
+// import * as crimeData from "../data/casefile-json.json";
+import * as crimeData from "../data/casefile-final.json";
+
 
 import "./CrimeMap.css";
 
-import marker from "./location-pin.svg";
+import marker from "./location-pin.png";
+import markerUnsolved from "./location-pin-unsolved.png";
 
 // import { Button, Box } from 'react-bulma-components';
 
 export default function CrimeMap() {
   const [viewport, setViewport] = useState({
-    latitude: 45.42030400000004,
-    longitude: 75.69768899999998,
+    latitude: 45.420304,
+    longitude: 75.6977,
     width: '100vw',
     height: '100vh',
-    zoom: 10
+    zoom: 1
   })
 
   const [selectedLocation, setSelectedLocation] = useState(null); // [] is array destructuring
@@ -56,7 +59,11 @@ export default function CrimeMap() {
             setSelectedLocation(crime);
           }}
         >
-          <img src={marker} alt="marker-alt" />
+        {crime.attributes.SolvedOrUnsolved === "Solved" ? 
+          ( <img src={marker} alt="marker-alt" />
+          ) : <img src={markerUnsolved} alt="marker-unsolved" />
+        }
+          
         </button>
 
         </Marker>
@@ -70,12 +77,17 @@ export default function CrimeMap() {
             setSelectedLocation(null);
           }}
         >
-          <div>
-            <h3>{selectedLocation.attributes.Location} </h3>
-            <p>{selectedLocation.attributes.CityOfCrime} {selectedLocation.attributes.CountryOfCrime}</p>
+          <table>
+            <tr>
+              <th>{selectedLocation.attributes.CaseName}</th>
+            </tr>
+          </table>
+          {/* <div>
+            <h3> </h3>
+            <p>{selectedLocation.attributes.CityOfCrime}, {selectedLocation.attributes.CountryOfCrime}</p>
             <p>{selectedLocation.attributes.VictimName}</p>
             <p>{selectedLocation.attributes.SolvedOrUnsolved}</p>
-          </div>
+          </div> */}
         </Popup>
        ) : null }
      </ReactMapGL>
