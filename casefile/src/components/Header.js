@@ -5,8 +5,8 @@ import "./Header.css";
 import {
     Collapse,
     Navbar,
-    NavbarToggler,
-    NavbarBrand,
+    // NavbarToggler,
+    // NavbarBrand,
     Nav,
     NavItem,
     NavLink

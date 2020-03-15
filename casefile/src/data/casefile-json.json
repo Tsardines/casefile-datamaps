@@ -99,10 +99,10 @@
       "defaultValue": null
     }
   ],
-  "cases": [
+  "features": [
     {
       "attributes": {
-        "CaseNumber": 1,
+        "FID": 1,
         "CaseName": "The Wanda Beach Murders",
         "Episode Date (M/D/Y)": "1/9/2016",
         "Length of Case": "1:14:02",
@@ -126,13 +126,13 @@
         "Method of Crime": "Stabbing, beating"
         },
         "geometry": {
-          "x": -33.868820,
-          "y": 151.209290
+          "x": "151.2093",
+          "y": "33.8688"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 2,
+        "FID": 2,
         "CaseName": "The Somerton Man",
         "Episode Date (M/D/Y)": "1/16/2016",
         "Length of Case": "0:44:11",
@@ -156,13 +156,13 @@
         "Method of Crime": "Possible poisoning"
         },
         "geometry": {
-          "x": "-34.928497",
-          "y": "138.600739"
+          "x": "138.600739",
+          "y": "-34.928497"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 3,
+        "FID": 3,
         "CaseName": "Lauria Bible and Ashley Freeman",
         "Episode Date (M/D/Y)": "1/23/2016",
         "Length of Case": "0:36:28",
@@ -186,13 +186,13 @@
         "Method of Crime": "Arson, shooting"
         },
         "geometry": {
-          "x": 36.873685,
-          "y": -95.095797
+          "x": "95.095797",
+          "y": "36.873685"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 4,
+        "FID": 4,
         "CaseName": "Who Put Bella in the \"Witch\" Elm",
         "Episode Date (M/D/Y)": "1/30/2016",
         "Length of Case": "0:31:27",
@@ -216,13 +216,13 @@
         "Method of Crime": "Suffocation"
         },
         "geometry": {
-          "x": 52.4262,
-          "y": -2.12819
+          "x": "2.12819",
+          "y": "52.4262"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 5,
+        "FID": 5,
         "CaseName": "Donna Wheeler",
         "Episode Date (M/D/Y)": "2/6/2016",
         "Length of Case": "0:24:07",
@@ -246,13 +246,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": -33.868820,
-          "y": 151.209290
+          "x": "151.209290",
+          "y": "33.868820"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 6,
+        "FID": 6,
         "CaseName": "Roger Dean",
         "Episode Date (M/D/Y)": "2/13/2016",
         "Length of Case": "0:32:29",
@@ -276,13 +276,13 @@
         "Method of Crime": "Arson"
         },
         "geometry": {
-          "x": -33.868820,
-          "y": 151.209290
+          "x": "151.209290",
+          "y": "33.868820"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 7,
+        "FID": 7,
         "CaseName": "Julian Buchwald and Carolynne Watson",
         "Episode Date (M/D/Y)": "2/20/2016",
         "Length of Case": "0:20:54",
@@ -306,13 +306,13 @@
         "Method of Crime": "Kidnapping, assault"
         },
         "geometry": {
-          "x": -38.316338,
-          "y": 146.423252
+          "x": "146.423252",
+          "y": "38.316338"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 8,
+        "FID": 8,
         "CaseName": "Holly Wells and Jessica Chapman",
         "Episode Date (M/D/Y)": "2/27/2016",
         "Length of Case": "0:32:22",
@@ -336,13 +336,13 @@
         "Method of Crime": "Suffocation"
         },
         "geometry": {
-          "x": 52.335213,
-          "y": 0.337508
+          "x": "0.337508",
+          "y": "52.335213"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 9,
+        "FID": 9,
         "CaseName": "Jonathan Luna",
         "Episode Date (M/D/Y)": "3/5/2016",
         "Length of Case": "0:34:19",
@@ -366,13 +366,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 40.046657,
-          "y": -76.178374
+          "x": "76.178374",
+          "y": "40.046657"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 10,
+        "FID": 10,
         "CaseName": "Peter Shellard",
         "Episode Date (M/D/Y)": "3/12/2016",
         "Length of Case": "0:21:03",
@@ -396,13 +396,13 @@
         "Method of Crime": "Overdose, beating, possible heart condition"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 11,
+        "FID": 11,
         "CaseName": "Anneliese Michel",
         "Episode Date (M/D/Y)": "3/19/2016",
         "Length of Case": "0:44:58",
@@ -426,13 +426,13 @@
         "Method of Crime": "Starvation, neglect"
         },
         "geometry": {
-          "x": 49.780571,
-          "y": 9.183096
+          "x": "9.183096",
+          "y": "49.780571"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 12,
+        "FID": 12,
         "CaseName": "Katherine Knight",
         "Episode Date (M/D/Y)": "3/26/2016",
         "Length of Case": "0:46:03",
@@ -456,13 +456,13 @@
         "Method of Crime": "Stabbing, mutilation of body, cannibalism"
         },
         "geometry": {
-          "x": -32.16773,
-          "y": 150.873294
+          "x": "150.873294",
+          "y": "32.16773"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 13,
+        "FID": 13,
         "CaseName": "The Family Court Murders",
         "Episode Date (M/D/Y)": "4/2/2016",
         "Length of Case": "0:55:59",
@@ -486,13 +486,13 @@
         "Method of Crime": "Bombing, shooting"
         },
         "geometry": {
-          "x": -31.840233,
-          "y": 145.612793
+          "x": "145.612793",
+          "y": "31.840233"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 14,
+        "FID": 14,
         "CaseName": "Helen Munnings",
         "Episode Date (M/D/Y)": "4/9/2016",
         "Length of Case": "0:24:36",
@@ -516,13 +516,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": -41.052465,
-          "y": 145.906851
+          "x": "145.906851",
+          "y": "41.052465"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 15,
+        "FID": 15,
         "CaseName": "The Weepy-Voiced Killer",
         "Episode Date (M/D/Y)": "4/16/2016",
         "Length of Case": "0:27:33",
@@ -546,13 +546,13 @@
         "Method of Crime": "Stabbing, drowning, beating"
         },
         "geometry": {
-          "x": 44.9735475,
-          "y": -93.10629649999998
+          "x": "93.10629649999998",
+          "y": "44.9735475"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 16,
+        "FID": 16,
         "CaseName": "Cris and Cru Kahui",
         "Episode Date (M/D/Y)": "4/23/2016",
         "Length of Case": "1:23:56",
@@ -576,13 +576,13 @@
         "Method of Crime": "Head injuries"
         },
         "geometry": {
-          "x": -36.8484597,
-          "y": 174.76333150000005
+          "x": "174.76333150000005",
+          "y": "36.8484597"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 17,
+        "FID": 17,
         "CaseName": "The Eriksson Twins",
         "Episode Date (M/D/Y)": "4/30/2016",
         "Length of Case": "0:33:24",
@@ -606,13 +606,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 53.002668,
-          "y": -2.179403999999977
+          "x": "2.179403999999977",
+          "y": "53.002668"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 18,
+        "FID": 18,
         "CaseName": "The North Hollywood Shootout",
         "Episode Date (M/D/Y)": "5/8/2016",
         "Length of Case": "1:02:14",
@@ -636,13 +636,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": "34.052235",
-          "y": "-118.243683"
+          "x": "-118.243683",
+          "y": "34.052235"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 19,
+        "FID": 19,
         "CaseName": "Snowtown",
         "Episode Date (M/D/Y)": "5/15/2016",
         "Length of Case": "1:31:32",
@@ -666,13 +666,13 @@
         "Method of Crime": "Shootings, strangulation, cannibalism"
         },
         "geometry": {
-          "x": -33.7833,
-          "y": 138.2000
+          "x": "138.2000",
+          "y": "33.7833"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 20,
+        "FID": 20,
         "CaseName": "Stoni Blair and Stephen Berry",
         "Episode Date (M/D/Y)": "5/22/2016",
         "Length of Case": "0:34:00",
@@ -696,13 +696,13 @@
         "Method of Crime": "Blunt trauma, starvation, child abuse"
         },
         "geometry": {
-          "x": 42.331429,
-          "y": -83.045753
+          "x": "83.045753",
+          "y": "42.331429"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 21,
+        "FID": 21,
         "CaseName": "Pamela Lawrence",
         "Episode Date (M/D/Y)": "5/29/2016",
         "Length of Case": "1:04:19",
@@ -726,13 +726,13 @@
         "Method of Crime": "Blunt trauma"
         },
         "geometry": {
-          "x": "-31.953512",
-          "y": "115.857048"
+          "x": "115.857048",
+          "y": "31.953512"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 22,
+        "FID": 22,
         "CaseName": "Marguerite Edwards",
         "Episode Date (M/D/Y)": "6/12/2016",
         "Length of Case": "0:28:06",
@@ -756,13 +756,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": -33.868820,
-          "y": 151.209290
+          "x": "151.209290",
+          "y": "33.868820"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 23,
+        "FID": 23,
         "CaseName": "The Frankston Serial Killer (2 parter)",
         "Episode Date (M/D/Y)": "6/19/2016",
         "Length of Case": "1:02:12",
@@ -786,13 +786,13 @@
         "Method of Crime": "Stabbing, strangulation"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 24,
+        "FID": 24,
         "CaseName": "Russell Street Bombing (2 parter)",
         "Episode Date (M/D/Y)": "7/7/2016",
         "Length of Case": "1:00:03",
@@ -816,13 +816,13 @@
         "Method of Crime": "Bombs"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 25,
+        "FID": 25,
         "CaseName": "Prue Bird",
         "Episode Date (M/D/Y)": "7/16/2016",
         "Length of Case": "0:29:13",
@@ -846,13 +846,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 26,
+        "FID": 26,
         "CaseName": "Lisa Marie Young",
         "Episode Date (M/D/Y)": "7/24/2016",
         "Length of Case": "0:22:56",
@@ -876,13 +876,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 49.165882,
-          "y": -123.940063
+          "x": "123.940063",
+          "y": "49.165882"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 27,
+        "FID": 27,
         "CaseName": "The West Mesa Bone Collector",
         "Episode Date (M/D/Y)": "7/31/2016",
         "Length of Case": "0:31:10",
@@ -906,13 +906,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 35.106766,
-          "y": -106.629181111
+          "x": "106.629181111",
+          "y": "35.106766"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 28,
+        "FID": 28,
         "CaseName": "Lindsay Buziak",
         "Episode Date (M/D/Y)": "8/7/2016",
         "Length of Case": "1:16:19",
@@ -936,13 +936,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 48.407326,
-          "y": -123.329773
+          "x": "123.329773",
+          "y": "48.407326"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 29,
+        "FID": 29,
         "CaseName": "The Burgate House Murders",
         "Episode Date (M/D/Y)": "8/13/2016",
         "Length of Case": "0:23:44",
@@ -966,13 +966,13 @@
         "Method of Crime": "Strangulation, burning"
         },
         "geometry": {
-          "x": 50.92747,
-          "y": -1.79029
+          "x": "1.79029",
+          "y": "50.92747"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 30,
+        "FID": 30,
         "CaseName": "The Claremont Serial Killer",
         "Episode Date (M/D/Y)": "8/20/2016",
         "Length of Case": "0:56:26",
@@ -996,13 +996,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": "-31.953512",
-          "y": "115.857048"
+          "x": "115.857048",
+          "y": "31.953512"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 31,
+        "FID": 31,
         "CaseName": "The Killer Couple",
         "Episode Date (M/D/Y)": "8/28/2016",
         "Length of Case": "0:39:51",
@@ -1026,13 +1026,13 @@
         "Method of Crime": "Stabbing, strangulation, overdose"
         },
         "geometry": {
-          "x": "-31.953512",
-          "y": "115.857048"
+          "x": "115.857048",
+          "y": "31.953512"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 32,
+        "FID": 32,
         "CaseName": "Grace and Kathleen Holmes",
         "Episode Date (M/D/Y)": "9/4/2016",
         "Length of Case": "0:33:32",
@@ -1056,13 +1056,13 @@
         "Method of Crime": "Blunt force trauma"
         },
         "geometry": {
-          "x": -33.283629 ,
-          "y": 151.423008
+          "x": "151.423008",
+          "y": "33.283629 "
         }
       },
       {
       "attributes": {
-        "CaseNumber": 33,
+        "FID": 33,
         "CaseName": "Jaycee Lee Dugard",
         "Episode Date (M/D/Y)": "9/18/2016",
         "Length of Case": "1:06:54",
@@ -1086,13 +1086,13 @@
         "Method of Crime": "Kidnapping, assault"
         },
         "geometry": {
-          "x": 38.9332411,
-          "y": -119.9843482 
+          "x": "119.9843482",
+          "y": "38.9332411"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 34,
+        "FID": 34,
         "CaseName": "The Catholic Mafia",
         "Episode Date (M/D/Y)": "9/25/2016",
         "Length of Case": "0:57:00",
@@ -1116,13 +1116,13 @@
         "Method of Crime": "Pedophilia"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 35,
+        "FID": 35,
         "CaseName": "Operation Mayan",
         "Episode Date (M/D/Y)": "10/9/2016",
         "Length of Case": "0:47:09",
@@ -1146,13 +1146,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 51.568535,
-          "y": -1.772232
+          "x": "1.772232",
+          "y": "51.568535"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 36,
+        "FID": 36,
         "CaseName": "Amok",
         "Episode Date (M/D/Y)": "10/16/2016",
         "Length of Case": "0:34:44",
@@ -1176,13 +1176,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 51.107883,
-          "y": 17.038538
+          "x": "17.038538",
+          "y": "51.107883"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 37,
+        "FID": 37,
         "CaseName": "The Yorkshire Ripper (3 parter)",
         "Episode Date (M/D/Y)": "10/23/2016",
         "Length of Case": "3:14:55",
@@ -1206,13 +1206,13 @@
         "Method of Crime": "Stabbing, blunt trauma with a hammer"
         },
         "geometry": {
-          "x": 53.85,
-          "y": -1.8333
+          "x": "1.8333",
+          "y": "53.85"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 38,
+        "FID": 38,
         "CaseName": "The Pikuls",
         "Episode Date (M/D/Y)": "11/13/2016",
         "Length of Case": "1:21:21",
@@ -1236,13 +1236,13 @@
         "Method of Crime": "Strangling, bludgeoning"
         },
         "geometry": {
-          "x": 41.512177,
-          "y": -74.018326
+          "x": "74.018326",
+          "y": "41.512177"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 39,
+        "FID": 39,
         "CaseName": "Janelle Patton",
         "Episode Date (M/D/Y)": "12/3/2016",
         "Length of Case": "1:00:53",
@@ -1266,13 +1266,13 @@
         "Method of Crime": "Stabbing, bludgeoning"
         },
         "geometry": {
-          "x": -29.0408344,
-          "y": 167.9547119
+          "x": "167.9547119",
+          "y": "29.0408344"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 40,
+        "FID": 40,
         "CaseName": "John Newman",
         "Episode Date (M/D/Y)": "12/10/2016",
         "Length of Case": "1:03:17",
@@ -1296,13 +1296,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": -33.868820,
-          "y": 151.209290
+          "x": "151.209290",
+          "y": "33.868820"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 41,
+        "FID": 41,
         "CaseName": "Mr. Cruel",
         "Episode Date (M/D/Y)": "1/8/2017",
         "Length of Case": "1:03:42",
@@ -1326,13 +1326,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 42,
+        "FID": 42,
         "CaseName": "Sherri Rasmussen",
         "Episode Date (M/D/Y)": "1/14/2017",
         "Length of Case": "1:04:22",
@@ -1356,13 +1356,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": 34.189857,
-          "y": -118.451355
+          "x": "118.451355",
+          "y": "34.189857"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 43,
+        "FID": 43,
         "CaseName": "Keith Warren",
         "Episode Date (M/D/Y)": "1/22/2017",
         "Length of Case": "0:44:57",
@@ -1386,13 +1386,13 @@
         "Method of Crime": "Hanging"
         },
         "geometry": {
-          "x": 38.99066570000001,
-          "y": -77.02608800000002
+          "x": "77.02608800000002",
+          "y": "38.99066570000001"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 44,
+        "FID": 44,
         "CaseName": "Peter Falconio",
         "Episode Date (M/D/Y)": "1/29/2017",
         "Length of Case": "1:53:25",
@@ -1416,13 +1416,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": -21.379898,
-          "y": 133.975551
+          "x": "133.975551",
+          "y": "21.379898"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 45,
+        "FID": 45,
         "CaseName": "Port Arthur",
         "Episode Date (M/D/Y)": "2/11/2017",
         "Length of Case": "1:20:08",
@@ -1446,13 +1446,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": -43.138974,
-          "y": 147.850694
+          "x": "147.850694",
+          "y": "43.138974"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 46,
+        "FID": 46,
         "CaseName": "The Frankston and Tynong North Serial Killer",
         "Episode Date (M/D/Y)": "2/19/2017",
         "Length of Case": "1:06:00",
@@ -1476,13 +1476,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": -37.815149,
-          "y": 144.9664076
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 47,
+        "FID": 47,
         "CaseName": "Yara Gambirasio",
         "Episode Date (M/D/Y)": "2/25/2017",
         "Length of Case": "0:44:41",
@@ -1506,13 +1506,13 @@
         "Method of Crime": "Exposure, head injuries, superficial cuts"
         },
         "geometry": {
-          "x": 45.7177,
-          "y": 9.5806
+          "x": "9.5806",
+          "y": "45.7177"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 48,
+        "FID": 48,
         "CaseName": "Suzy Lamplugh",
         "Episode Date (M/D/Y)": "3/4/2017",
         "Length of Case": "0:56:43",
@@ -1536,13 +1536,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 51.4667,
-          "y": -0.2167
+          "x": "0.2167",
+          "y": "51.4667"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 49,
+        "FID": 49,
         "CaseName": "The Moors Murders (3 parter)",
         "Episode Date (M/D/Y)": "3/19/2017",
         "Length of Case": "5:02:01",
@@ -1566,13 +1566,13 @@
         "Method of Crime": "Slit throat, strangulation, axe"
         },
         "geometry": {
-          "x": 53.539331176,
-          "y": -1.953496186
+          "x": "1.953496186",
+          "y": "53.539331176"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 50,
+        "FID": 50,
         "CaseName": "Jennifer Pan",
         "Episode Date (M/D/Y)": "4/16/2017",
         "Length of Case": "2:39:52",
@@ -1596,13 +1596,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": 43.651070,
-          "y": -79.347015
+          "x": "79.347015",
+          "y": "43.651070"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 51,
+        "FID": 51,
         "CaseName": "Tina Watson",
         "Episode Date (M/D/Y)": "4/23/2017",
         "Length of Case": "2:29:31",
@@ -1626,13 +1626,13 @@
         "Method of Crime": "Possible tampering with scuba diving equipment or Negligence"
         },
         "geometry": {
-          "x": -20.917574,
-          "y": 142.702789
+          "x": "142.702789",
+          "y": "20.917574"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 52,
+        "FID": 52,
         "CaseName": "Mary & Beth Stauffer, Jason Wilkman",
         "Episode Date (M/D/Y)": "5/6/2017",
         "Length of Case": "1:56:18",
@@ -1656,13 +1656,13 @@
         "Method of Crime": "Guns"
         },
         "geometry": {
-          "x": 46.786671,
-          "y": -92.100487
+          "x": "92.100487",
+          "y": "46.786671"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 53,
+        "FID": 53,
         "CaseName": "The East Area Rapist (5 parter)",
         "Episode Date (M/D/Y)": "5/14/2017",
         "Length of Case": "8:12:32",
@@ -1686,13 +1686,13 @@
         "Method of Crime": "Shooting, bludgeoning"
         },
         "geometry": {
-          "x": 38.575764,
-          "y": -121.478851
+          "x": "121.478851",
+          "y": "38.575764"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 54,
+        "FID": 54,
         "CaseName": "Daniel Morcombe",
         "Episode Date (M/D/Y)": "7/2/2017",
         "Length of Case": "1:27:20",
@@ -1716,13 +1716,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": -26.650000,
-          "y": 153.066666
+          "x": "153.066666",
+          "y": "26.650000"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 55,
+        "FID": 55,
         "CaseName": "Simone Strobel",
         "Episode Date (M/D/Y)": "7/16/2017",
         "Length of Case": "1:08:53",
@@ -1746,13 +1746,13 @@
         "Method of Crime": "Suffocation"
         },
         "geometry": {
-          "x": -28.8167,
-          "y": 153.2833
+          "x": "153.2833",
+          "y": "28.8167"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 56,
+        "FID": 56,
         "CaseName": "Anita Cobby",
         "Episode Date (M/D/Y)": "7/23/2017",
         "Length of Case": "1:35:52",
@@ -1776,13 +1776,13 @@
         "Method of Crime": "Slit throat, beating"
         },
         "geometry": {
-          "x": -33.890648,
-          "y": 151.212921
+          "x": "151.212921",
+          "y": "33.890648"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 57,
+        "FID": 57,
         "CaseName": "Walsh Street",
         "Episode Date (M/D/Y)": "7/30/2017",
         "Length of Case": "1:47:58",
@@ -1806,13 +1806,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 58,
+        "FID": 58,
         "CaseName": "Shannon Matthews",
         "Episode Date (M/D/Y)": "8/13/2017",
         "Length of Case": "1:03:30",
@@ -1836,13 +1836,13 @@
         "Method of Crime": "Kidnapping"
         },
         "geometry": {
-          "x": 53.69076,
-          "y": -1.62907
+          "x": "1.62907",
+          "y": "53.69076"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 59,
+        "FID": 59,
         "CaseName": "Amy Lynn Bradley",
         "Episode Date (M/D/Y)": "8/19/2017",
         "Length of Case": "1:13:14",
@@ -1866,13 +1866,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 12.166666,
-          "y":  -69.0
+          "x": " -69.0",
+          "y":" 12.16666"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 60,
+        "FID": 60,
         "CaseName": "Jonestown (3 parter)",
         "Episode Date (M/D/Y)": "9/17/2017",
         "Length of Case": "3:23:16",
@@ -1896,13 +1896,13 @@
         "Method of Crime": "Poisoning, guns, knife"
         },
         "geometry": {
-          "x": 7.70297378809,
-          "y": -59.9036803853
+          "x": "59.9036803853",
+          "y": "7.70297378809"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 61,
+        "FID": 61,
         "CaseName": "The Lin Family",
         "Episode Date (M/D/Y)": "9/29/2017",
         "Length of Case": "1:03:45",
@@ -1926,13 +1926,13 @@
         "Method of Crime": "Bludgeoning with a hammer-like object"
         },
         "geometry": {
-          "x": -33.758555,
-          "y": 151.093438
+          "x": "151.093438",
+          "y": "33.758555"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 62,
+        "FID": 62,
         "CaseName": "The Honolulu Strangler",
         "Episode Date (M/D/Y)": "10/7/2017",
         "Length of Case": "0:41:57",
@@ -1956,13 +1956,13 @@
         "Method of Crime": "Strangulation"
         },
         "geometry": {
-          "x": 21.315603,
-          "y": -157.858093
+          "x": "157.858093",
+          "y": "21.315603"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 63,
+        "FID": 63,
         "CaseName": "Catherine Holmes and Georgina Watmore",
         "Episode Date (M/D/Y)": "10/15/2017",
         "Length of Case": "0:41:41",
@@ -1986,13 +1986,13 @@
         "Method of Crime": "Bludgeoning with a sharp, heavy weapon"
         },
         "geometry": {
-          "x": -34.0166666,
-          "y": 148.6999972
+          "x": "148.6999972",
+          "y": "34.0166666"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 64,
+        "FID": 64,
         "CaseName": "Peter Weinberger",
         "Episode Date (M/D/Y)": "10/29/2017",
         "Length of Case": "0:56:05",
@@ -2016,13 +2016,13 @@
         "Method of Crime": "Abandonment to the elements"
         },
         "geometry": {
-          "x": 40.7589,
-          "y": -73.5882
+          "x": "73.5882",
+          "y": "40.7589"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 65,
+        "FID": 65,
         "CaseName": "Allison Baden-Clay",
         "Episode Date (M/D/Y)": "11/5/2017",
         "Length of Case": "1:35:29",
@@ -2046,13 +2046,13 @@
         "Method of Crime": "Blunt force trauma"
         },
         "geometry": {
-          "x": -27.470125,
-          "y": 153.021072
+          "x": "153.021072",
+          "y": "27.470125"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 66,
+        "FID": 66,
         "CaseName": "The Black Widow",
         "Episode Date (M/D/Y)": "11/10/2017",
         "Length of Case": "1:04:42",
@@ -2076,13 +2076,13 @@
         "Method of Crime": "Poisoning"
         },
         "geometry": {
-          "x": 36.0334704,
-          "y": -79.3997419 
+          "x": "79.3997419 ",
+          "y": "36.0334704"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 67,
+        "FID": 67,
         "CaseName": "The Battle of Alcatraz",
         "Episode Date (M/D/Y)": "11/18/2017",
         "Length of Case": "1:09:09",
@@ -2106,13 +2106,13 @@
         "Method of Crime": "Guns"
         },
         "geometry": {
-          "x": 37.733795,
-          "y": -122.446747
+          "x": "122.446747",
+          "y": "37.733795"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 68,
+        "FID": 68,
         "CaseName": "Escape from Alcatraz",
         "Episode Date (M/D/Y)": "11/25/2017",
         "Length of Case": "1:05:52",
@@ -2136,13 +2136,13 @@
         "Method of Crime": ""
         },
         "geometry": {
-          "x": 37.733795,
-          "y": -122.446747
+          "x": "122.446747",
+          "y": "37.733795"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 69,
+        "FID": 69,
         "CaseName": "Gary Patterson",
         "Episode Date (M/D/Y)": "12/2/2017",
         "Length of Case": "0:59:00",
@@ -2166,13 +2166,13 @@
         "Method of Crime": "Buried alive, blunt trauma"
         },
         "geometry": {
-          "x": 31.559814,
-          "y": -97.141800
+          "x": "97.141800",
+          "y": "31.559814"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 70,
+        "FID": 70,
         "CaseName": "The Kimberley Killer",
         "Episode Date (M/D/Y)": "12/9/2017",
         "Length of Case": "0:55:03",
@@ -2196,13 +2196,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": -19.491411,
-          "y": 132.550964
+          "x": "132.550964",
+          "y": "19.491411"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 71,
+        "FID": 71,
         "CaseName": "Elodie Morel",
         "Episode Date (M/D/Y)": "12/17/2017",
         "Length of Case": "0:56:30",
@@ -2226,13 +2226,13 @@
         "Method of Crime": "Possible suffocation"
         },
         "geometry": {
-          "x": 43.567173,
-          "y": 4.192587
+          "x": "4.192587",
+          "y": "43.567173"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 72,
+        "FID": 72,
         "CaseName": "Wilhelmina Kruger and Anna Dowlingkoa",
         "Episode Date (M/D/Y)": "1/14/2018",
         "Length of Case": "0:59:23",
@@ -2256,13 +2256,13 @@
         "Method of Crime": "Stabbing, strangulation, mutilation"
         },
         "geometry": {
-          "x": -34.425072,
-          "y": 150.893143
+          "x": "150.893143",
+          "y": "34.425072"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 73,
+        "FID": 73,
         "CaseName": "The Lady in the Barrel",
         "Episode Date (M/D/Y)": "1/17/2018",
         "Length of Case": "0:43:02",
@@ -2286,13 +2286,13 @@
         "Method of Crime": "Negative side effects of abortion"
         },
         "geometry": {
-          "x": 40.730610,
-          "y": -73.935242
+          "x": "73.935242",
+          "y": "40.730610"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 74,
+        "FID": 74,
         "CaseName": "Eric Coy",
         "Episode Date (M/D/Y)": "1/20/2018",
         "Length of Case": "1:00:13",
@@ -2316,13 +2316,13 @@
         "Method of Crime": "Throat slashed"
         },
         "geometry": {
-          "x": 38.0193657,
-          "y": -122.1341321
+          "x": "122.1341321",
+          "y": "38.0193657"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 75,
+        "FID": 75,
         "CaseName": "Graeme Thorne",
         "Episode Date (M/D/Y)": "1/28/2018",
         "Length of Case": "1:03:58",
@@ -2346,13 +2346,13 @@
         "Method of Crime": "Suffocation"
         },
         "geometry": {
-          "x": -33.868820,
-          "y": 151.209290
+          "x": "151.209290",
+          "y": "33.868820"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 76,
+        "FID": 76,
         "CaseName": "Silk Road (3 parter)",
         "Episode Date (M/D/Y)": "2/11/2018",
         "Length of Case": "3:51:51",
@@ -2382,7 +2382,7 @@
       },
       {
       "attributes": {
-        "CaseNumber": 77,
+        "FID": 77,
         "CaseName": "Mia Zapata",
         "Episode Date (M/D/Y)": "3/11/2018",
         "Length of Case": "1:02:15",
@@ -2406,13 +2406,13 @@
         "Method of Crime": "Strangulation, beating"
         },
         "geometry": {
-          "x": 47.608013,
-          "y": -122.335167
+          "x": "122.335167",
+          "y": "47.608013"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 78,
+        "FID": 78,
         "CaseName": "The Janabi Family",
         "Episode Date (M/D/Y)": "3/17/2018",
         "Length of Case": "1:48:22",
@@ -2436,13 +2436,13 @@
         "Method of Crime": "Shooting, arson"
         },
         "geometry": {
-          "x": 33.0667,
-          "y": 44.3667
+          "x": "44.3667",
+          "y": "33.0667"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 79,
+        "FID": 79,
         "CaseName": "Rayna Rison",
         "Episode Date (M/D/Y)": "3/25/2018",
         "Length of Case": "1:06:11",
@@ -2466,13 +2466,13 @@
         "Method of Crime": "Strangulation"
         },
         "geometry": {
-          "x": 41.6055,
-          "y": -86.7172
+          "x": "86.7172",
+          "y": "41.6055"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 80,
+        "FID": 80,
         "CaseName": "Beth Barnard",
         "Episode Date (M/D/Y)": "4/8/2018",
         "Length of Case": "1:36:40",
@@ -2496,13 +2496,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": -38.4833,
-          "y": 145.2333
+          "x": "145.2333",
+          "y": "38.4833"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 81,
+        "FID": 81,
         "CaseName": "Brian Wells",
         "Episode Date (M/D/Y)": "4/15/2018",
         "Length of Case": "1:40:39",
@@ -2526,13 +2526,13 @@
         "Method of Crime": "Bomb"
         },
         "geometry": {
-          "x": 42.129223,
-          "y": -80.085060
+          "x": "80.085060",
+          "y": "42.129223"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 82,
+        "FID": 82,
         "CaseName": "Maria Korp",
         "Episode Date (M/D/Y)": "4/22/2018",
         "Length of Case": "1:42:41",
@@ -2556,13 +2556,13 @@
         "Method of Crime": "Suffocation, beating, dehydration"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 83,
+        "FID": 83,
         "CaseName": "Chantelle & Leela McDougall, Tony Popic",
         "Episode Date (M/D/Y)": "5/6/2018",
         "Length of Case": "1:08:12",
@@ -2586,13 +2586,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x":  -33.97876,
-          "y":  115.764459
+          "x": " 115.764459",
+          "y": " -33.97876"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 84,
+        "FID": 84,
         "CaseName": "Lesley Molseed (2 parter)",
         "Episode Date (M/D/Y)": "5/12/2018",
         "Length of Case": "2:25:40",
@@ -2616,13 +2616,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 53.6667,
-          "y": -1.95
+          "x": "1.95",
+          "y":" 53.666"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 85,
+        "FID": 85,
         "CaseName": "Tom Brown",
         "Episode Date (M/D/Y)": "6/2/2018",
         "Length of Case": "0:56:00",
@@ -2646,14 +2646,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 35.91282,
-          "y": -100.3820772
-    
+          "x": "100.3820772",
+          "y": "35.91282"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 86,
+        "FID": 86,
         "CaseName": "Amy Allwine",
         "Episode Date (M/D/Y)": "6/9/2018",
         "Length of Case": "1:22:26",
@@ -2677,13 +2676,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": 44.8277446,
-          "y":  -92.9438218 
+          "x": " -92.9438218",
+          "y": "44.8277446"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 87,
+        "FID": 87,
         "CaseName": "Elaine O'Hara",
         "Episode Date (M/D/Y)": "6/16/2018",
         "Length of Case": "1:05:47",
@@ -2707,13 +2706,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 53.22611,
-          "y": -6.12444
+          "x": "6.12444",
+          "y": "53.22611"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 88,
+        "FID": 88,
         "CaseName": "Stephen Hilder",
         "Episode Date (M/D/Y)": "7/7/2018",
         "Length of Case": "1:04:00",
@@ -2737,13 +2736,13 @@
         "Method of Crime": "Tampering with parachute"
         },
         "geometry": {
-          "x": 52.056499,
-          "y": -2.716000
+          "x": "2.716000",
+          "y": "52.056499"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 89,
+        "FID": 89,
         "CaseName": "Ella Tundra",
         "Episode Date (M/D/Y)": "7/14/2018",
         "Length of Case": "1:01:30",
@@ -2767,13 +2766,13 @@
         "Method of Crime": "Blunt force trauma"
         },
         "geometry": {
-          "x": 56.1951,
-          "y": -3.1732
+          "x": "3.1732",
+          "y": "56.1951"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 90,
+        "FID": 90,
         "CaseName": "Hoddle Street",
         "Episode Date (M/D/Y)": "7/28/2018",
         "Length of Case": "1:09:41",
@@ -2797,13 +2796,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": -37.815149,
-          "y": 144.9664076
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 91,
+        "FID": 91,
         "CaseName": "Carly Ryan",
         "Episode Date (M/D/Y)": "8/4/2018",
         "Length of Case": "1:03:22",
@@ -2827,13 +2826,13 @@
         "Method of Crime": "Assualt, drowning"
         },
         "geometry": {
-          "x": -35.5166646,
-          "y": 138.666664
+          "x": "138.666664",
+          "y": "35.5166646"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 92,
+        "FID": 92,
         "CaseName": "Dnepropetrovsk Maniacs",
         "Episode Date (M/D/Y)": "8/11/2019",
         "Length of Case": "1:03:45",
@@ -2857,13 +2856,13 @@
         "Method of Crime": "Blunt force trauma with objects like hammers, bars, etc. Mutilation of body with items like screwdrivers."
         },
         "geometry": {
-          "x": 48.450001,
-          "y": 34.983334
+          "x": "34.983334",
+          "y": "48.450001"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 93,
+        "FID": 93,
         "CaseName": "Susan Snow and  Bruce Nickell",
         "Episode Date (M/D/Y)": "8/26/2018",
         "Length of Case": "1:40:09",
@@ -2887,13 +2886,13 @@
         "Method of Crime": "Cyanide poisoning"
         },
         "geometry": {
-          "x": 47.307323,
-          "y": -122.228455
+          "x": "122.228455",
+          "y": "47.307323"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 94,
+        "FID": 94,
         "CaseName": "Millie & Trevor Horn, Janice Saunders",
         "Episode Date (M/D/Y)": "9/1/2018",
         "Length of Case": "1:15:30",
@@ -2917,13 +2916,13 @@
         "Method of Crime": "Shooting, home invasion"
         },
         "geometry": {
-          "x": 29.216389,
-          "y": -82.057777
+          "x": "82.057777",
+          "y": "29.216389"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 95,
+        "FID": 95,
         "CaseName": "The Vampire of Krakow",
         "Episode Date (M/D/Y)": "9/8/2018",
         "Length of Case": "1:17:04",
@@ -2947,13 +2946,13 @@
         "Method of Crime": "Stabbing, arson, poisoning"
         },
         "geometry": {
-          "x": 50.049683,
-          "y": 19.944544
+          "x": "19.944544",
+          "y": "50.049683"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 96,
+        "FID": 96,
         "CaseName": "The Toy Box (3 parter)",
         "Episode Date (M/D/Y)": "9/22/2018",
         "Length of Case": "3:42:08",
@@ -2977,13 +2976,13 @@
         "Method of Crime": "Various"
         },
         "geometry": {
-          "x": 33.1486833,
-          "y": -107.1847503
+          "x": "107.1847503",
+          "y": "33.1486833"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 97,
+        "FID": 97,
         "CaseName": "Rebecca Schaeffer",
         "Episode Date (M/D/Y)": "10/20/2018",
         "Length of Case": "1:23:02",
@@ -3007,13 +3006,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": "34.052235",
-          "y": "-118.243683"
+          "x": "-118.243683",
+          "y": "34.052235"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 98,
+        "FID": 98,
         "CaseName": "The Pillow Pyro",
         "Episode Date (M/D/Y)": "10/27/2018",
         "Length of Case": "1:39:38",
@@ -3037,13 +3036,13 @@
         "Method of Crime": "Arson"
         },
         "geometry": {
-          "x": 34.156113,
-          "y": -118.131943
+          "x": "118.131943",
+          "y": "34.156113"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 99,
+        "FID": 99,
         "CaseName": "Becky Watts",
         "Episode Date (M/D/Y)": "11/10/2018",
         "Length of Case": "1:47:54",
@@ -3067,13 +3066,13 @@
         "Method of Crime": "Suffocation, dismemberment"
         },
         "geometry": {
-          "x": 51.454514,
-          "y": -2.587910
+          "x": "2.587910",
+          "y": "51.454514"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 100,
+        "FID": 100,
         "CaseName": "The Beaumont Children",
         "Episode Date (M/D/Y)": "11/17/2018",
         "Length of Case": "1:57:48",
@@ -3097,13 +3096,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": "-34.928497",
-          "y": "138.600739"
+          "x": "138.600739",
+          "y": "34.928497"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 101,
+        "FID": 101,
         "CaseName": "Sian Kingi",
         "Episode Date (M/D/Y)": "11/24/2018",
         "Length of Case": "1:34:26",
@@ -3127,13 +3126,13 @@
         "Method of Crime": "Stabbing, strangling"
         },
         "geometry": {
-          "x": -26.3906167,
-          "y": 153.1049452
+          "x": "153.1049452",
+          "y": "26.3906167"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 102,
+        "FID": 102,
         "CaseName": "Britt Lapthorne",
         "Episode Date (M/D/Y)": "11/30/2018",
         "Length of Case": "1:57:14",
@@ -3157,13 +3156,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 42.640278,
-          "y": 18.108334
+          "x": "18.108334",
+          "y": "42.640278"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 103,
+        "FID": 103,
         "CaseName": "The Gonzales Family",
         "Episode Date (M/D/Y)": "12/15/2018",
         "Length of Case": "1:36:54",
@@ -3187,13 +3186,13 @@
         "Method of Crime": "Stabbing, beating"
         },
         "geometry": {
-          "x": -33.868820,
-          "y": 151.209290
+          "x": "151.209290",
+          "y": "33.868820"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 104,
+        "FID": 104,
         "CaseName": "Mark and John",
         "Episode Date (M/D/Y)": "12/22/2018",
         "Length of Case": "1:04:27",
@@ -3217,13 +3216,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 53.386906,
-          "y": -2.348898
+          "x": "2.348898",
+          "y": "53.386906"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 105,
+        "FID": 105,
         "CaseName": "Louise Bell",
         "Episode Date (M/D/Y)": "1/26/2019",
         "Length of Case": "1:07:33",
@@ -3247,13 +3246,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": "-34.928497",
-          "y": "138.600739"
+          "x": "138.600739",
+          "y": "34.928497"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 106,
+        "FID": 106,
         "CaseName": "Peter Nielsen (2 parter)",
         "Episode Date (M/D/Y)": "2/2/2019",
         "Length of Case": "2:17:26",
@@ -3277,13 +3276,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 47.4524076473599,
-          "y": 8.560752138826214
+          "x": "8.560752138826214",
+          "y": "47.4524076473599"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 107,
+        "FID": 107,
         "CaseName": "Lucie Blackman & Carita Ridgway",
         "Episode Date (M/D/Y)": "2/23/2019",
         "Length of Case": "1:32:00",
@@ -3307,13 +3306,13 @@
         "Method of Crime": "Poisoning, overdose"
         },
         "geometry": {
-          "x": 35.689506,
-          "y": 139.6917
+          "x": "139.6917",
+          "y": "35.689506"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 108,
+        "FID": 108,
         "CaseName": "The Kicevo Monster",
         "Episode Date (M/D/Y)": "3/2/2019",
         "Length of Case": "1:04:34",
@@ -3337,13 +3336,13 @@
         "Method of Crime": "Strangulation"
         },
         "geometry": {
-          "x": 42.8294443999999,
-          "y": 19.3686111
+          "x": "19.3686111",
+          "y":" 42.829444399"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 109,
+        "FID": 109,
         "CaseName": "Belanglo (5 parter)",
         "Episode Date (M/D/Y)": "3/23/2019",
         "Length of Case": "6:18:22",
@@ -3367,13 +3366,13 @@
         "Method of Crime": "Shooting, stabbing, blunt force trauma"
         },
         "geometry": {
-          "x": -34.5173175288704,
-          "y": 150.22201427444918
+          "x": "150.22201427444918",
+          "y": "34.5173175288704"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 110,
+        "FID": 110,
         "CaseName": "Muriel McKay",
         "Episode Date (M/D/Y)": "5/4/2019",
         "Length of Case": "1:27:16",
@@ -3397,13 +3396,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 51.944990,
-          "y": 0.115490
+          "x": "0.115490",
+          "y": "51.944990"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 111,
+        "FID": 111,
         "CaseName": "Shauna Howe",
         "Episode Date (M/D/Y)": "5/18/2019",
         "Length of Case": "1:15:22",
@@ -3427,13 +3426,13 @@
         "Method of Crime": "Blunt force trauma caused by a fall"
         },
         "geometry": {
-          "x": 41.43289,
-          "y": -79.708221
+          "x": "79.708221",
+          "y": "41.43289"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 112,
+        "FID": 112,
         "CaseName": "Rachel Barber",
         "Episode Date (M/D/Y)": "5/25/2019",
         "Length of Case": "1:12:56",
@@ -3457,13 +3456,13 @@
         "Method of Crime": "Strangulation"
         },
         "geometry": {
-          "x": "-37.815149",
-          "y": "144.9664076"
+          "x": "144.9664076",
+          "y": "37.815149"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 113,
+        "FID": 113,
         "CaseName": "Brendan Bernard",
         "Episode Date (M/D/Y)": "6/1/2019",
         "Length of Case": "1:09:45",
@@ -3487,13 +3486,13 @@
         "Method of Crime": "Strangulation, blunt force trauma, cutting up body"
         },
         "geometry": {
-          "x": -37.7657735,
-          "y": 144.9192054
+          "x": "144.9192054",
+          "y": "37.7657735"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 114,
+        "FID": 114,
         "CaseName": "Elisa Claps & Heather Barnett",
         "Episode Date (M/D/Y)": "6/15/2019",
         "Length of Case": "1:47:30",
@@ -3517,13 +3516,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 40.640408,
-          "y": 15.805604
+          "x": "15.805604",
+          "y": "40.640408"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 115,
+        "FID": 115,
         "CaseName": "Operation Cathedral",
         "Episode Date (M/D/Y)": "6/22/2019",
         "Length of Case": "1:15:24",
@@ -3553,7 +3552,7 @@
       },
       {
       "attributes": {
-        "CaseNumber": 116,
+        "FID": 116,
         "CaseName": "Chloe Ayling",
         "Episode Date (M/D/Y)": "6/29/2019",
         "Length of Case": "1:21:05",
@@ -3577,13 +3576,13 @@
         "Method of Crime": "Kidnapping"
         },
         "geometry": {
-          "x": 45.464664,
-          "y": 9.188540
+          "x": "9.188540",
+          "y": "45.464664"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 117,
+        "FID": 117,
         "CaseName": "Hannah Foster",
         "Episode Date (M/D/Y)": "7/13/2019",
         "Length of Case": "1:15:57",
@@ -3607,13 +3606,13 @@
         "Method of Crime": "Strangulation"
         },
         "geometry": {
-          "x": 50.909698,
-          "y": -1.404351
+          "x": "1.404351",
+          "y": "50.909698"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 118,
+        "FID": 118,
         "CaseName": "The Chicago Tylenol Murders",
         "Episode Date (M/D/Y)": "7/21/2019",
         "Length of Case": "1:23:03",
@@ -3637,13 +3636,13 @@
         "Method of Crime": "Poisoning"
         },
         "geometry": {
-          "x": 41.881832,
-          "y": -87.623177
+          "x": "87.623177",
+          "y": "41.881832"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 119,
+        "FID": 119,
         "CaseName": "Abigail Williams and Liberty German",
         "Episode Date (M/D/Y)": "7/27/2019",
         "Length of Case": "1:09:00",
@@ -3667,13 +3666,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 40.587536,
-          "y": -86.675003
+          "x": "86.675003",
+          "y": "40.587536"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 120,
+        "FID": 120,
         "CaseName": "Bill McGuire",
         "Episode Date (M/D/Y)": "8/10/2019",
         "Length of Case": "1:06:03",
@@ -3697,13 +3696,13 @@
         "Method of Crime": "Shooting, dismemberment"
         },
         "geometry": {
-          "x": 40.560001,
-          "y": -74.290001
+          "x": "74.290001",
+          "y": "40.560001"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 121,
+        "FID": 121,
         "CaseName": "The Freeway Phantom",
         "Episode Date (M/D/Y)": "8/17/2019",
         "Length of Case": "1:23:17",
@@ -3727,13 +3726,13 @@
         "Method of Crime": "Strangulation, stabbing"
         },
         "geometry": {
-          "x": 38.889484,
-          "y": -77.035278
+          "x": "77.035278",
+          "y": "38.889484"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 122,
+        "FID": 122,
         "CaseName": "Leeann Lapham",
         "Episode Date (M/D/Y)": "8/24/2019",
         "Length of Case": "1:00:42",
@@ -3757,13 +3756,13 @@
         "Method of Crime": "Blunt force trauma"
         },
         "geometry": {
-          "x": -17.522626,
-          "y":  146.028522
+          "x": " 146.028522",
+          "y": "17.522626"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 123,
+        "FID": 123,
         "CaseName": "Mark Kilroy",
         "Episode Date (M/D/Y)": "9/7/2019",
         "Length of Case": "1:09:11",
@@ -3787,13 +3786,13 @@
         "Method of Crime": "Machete"
         },
         "geometry": {
-          "x": 25.869028,
-          "y": -97.502739
+          "x": "97.502739",
+          "y": "25.869028"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 124,
+        "FID": 124,
         "CaseName": "Hinterkaifeck",
         "Episode Date (M/D/Y)": "9/14/2019",
         "Length of Case": "1:02:29",
@@ -3817,13 +3816,13 @@
         "Method of Crime": "Bludgeoning, Mattock"
         },
         "geometry": {
-          "x": 48.5833,
-          "y": 11.3333
+          "x": "11.3333",
+          "y": "48.5833"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 125,
+        "FID": 125,
         "CaseName": "The Angels of Wynarka & Belanglo",
         "Episode Date (M/D/Y)": "9/21/2019",
         "Length of Case": "0:58:00",
@@ -3847,13 +3846,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": -23.700552,
-          "y": 133.882675
+          "x": "133.882675",
+          "y": "23.700552"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 126,
+        "FID": 126,
         "CaseName": "Johnny Altinger",
         "Episode Date (M/D/Y)": "10/5/2019",
         "Length of Case": "1:15:49",
@@ -3877,13 +3876,13 @@
         "Method of Crime": "Stabbing"
         },
         "geometry": {
-          "x": 53.631611,
-          "y": -113.323975
+          "x": "113.323975",
+          "y": "53.631611"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 127,
+        "FID": 127,
         "CaseName": "Killer Petey",
         "Episode Date (M/D/Y)": "10/12/2019",
         "Length of Case": "1:01:17",
@@ -3907,13 +3906,13 @@
         "Method of Crime": ""
         },
         "geometry": {
-          "x": -19.912998,
-          "y": -43.940933
+          "x": "43.940933",
+          "y": "19.912998"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 128,
+        "FID": 128,
         "CaseName": "Joan Vollmer",
         "Episode Date (M/D/Y)": "10/19/2019",
         "Length of Case": "1:08:45",
@@ -3937,13 +3936,13 @@
         "Method of Crime": "Heart attack, trauma"
         },
         "geometry": {
-          "x": -36.300,
-          "y": 142.050
+          "x": "142.050",
+          "y": "36.300"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 129,
+        "FID": 129,
         "CaseName": "The Dupont de Ligonnes Family",
         "Episode Date (M/D/Y)": "11/2/2019",
         "Length of Case": "1:20:14",
@@ -3967,13 +3966,13 @@
         "Method of Crime": "Shooting, drugging"
         },
         "geometry": {
-          "x": 47.218102,
-          "y": -1.552800
+          "x": "1.552800",
+          "y": "47.218102"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 130,
+        "FID": 130,
         "CaseName": "Joe Cinque",
         "Episode Date (M/D/Y)": "11/9/2019",
         "Length of Case": "1:05:20",
@@ -3997,13 +3996,13 @@
         "Method of Crime": "Poisoning"
         },
         "geometry": {
-          "x": -35.282001,
-          "y": 149.128998
+          "x": "149.128998",
+          "y": "35.282001"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 131,
+        "FID": 131,
         "CaseName": "Mr. Stinky",
         "Episode Date (M/D/Y)": "11/16/2019",
         "Length of Case": "1:27:22",
@@ -4027,13 +4026,13 @@
         "Method of Crime": "Shooting, bludgeoning"
         },
         "geometry": {
-          "x": -36.383331,
-          "y": 145.399994
+          "x": "145.399994",
+          "y": "36.383331"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 132,
+        "FID": 132,
         "CaseName": "Rui Pedro Teixeira Mendonça",
         "Episode Date (M/D/Y)": "11/30/2019",
         "Length of Case": "1:10:32",
@@ -4057,13 +4056,13 @@
         "Method of Crime": "Unknown"
         },
         "geometry": {
-          "x": 41.2244,
-          "y": -8.4769
+          "x": "8.4769",
+          "y": "41.2244"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 133,
+        "FID": 133,
         "CaseName": "Tom & Eileen Lonergan",
         "Episode Date (M/D/Y)": "12/7/2019",
         "Length of Case": "1:15:46",
@@ -4087,13 +4086,13 @@
         "Method of Crime": "Accidental Stranding"
         },
         "geometry": {
-          "x": -17.226000,
-          "y": 151.380005
+          "x": "151.380005",
+          "y": "17.226000"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 134,
+        "FID": 134,
         "CaseName": "Martha Puebla",
         "Episode Date (M/D/Y)": "12/14/2019",
         "Length of Case": "1:05:33",
@@ -4117,13 +4116,13 @@
         "Method of Crime": "Shooting"
         },
         "geometry": {
-          "x": "34.052235",
-          "y": "-118.243683"
+          "x": "-118.243683",
+          "y": "34.052235"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 135,
+        "FID": 135,
         "CaseName": "The Santa Claus Bank Robbery",
         "Episode Date (M/D/Y)": "12/21/2019",
         "Length of Case": "1:01:42",
@@ -4147,13 +4146,13 @@
         "Method of Crime": "Shooting, impersonation"
         },
         "geometry": {
-          "x": 32.3849592,
-          "y": -98.979982
+          "x": "98.979982",
+          "y": "32.3849592"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 136,
+        "FID": 136,
         "CaseName": "Azaria Chamberlain",
         "Episode Date (M/D/Y)": "2/15/2020",
         "Length of Case": "2:02:28",
@@ -4177,13 +4176,13 @@
         "Method of Crime": "Animal attack"
         },
         "geometry": {
-          "x": -25.344490,
-          "y": 131.035431
+          "x": "131.035431",
+          "y": "25.344490"
         }
       },
       {
       "attributes": {
-        "CaseNumber": 137,
+        "FID": 137,
         "CaseName": "Arlis Perry",
         "Episode Date (M/D/Y)": "2/22/2020",
         "Length of Case": "1:28:23",
@@ -4207,8 +4206,8 @@
         "Method of Crime": "Ice pick"
       },
       "geometry": {
-        "x": 37.424107,
-        "y": -122.166077
+        "x": "122.166077",
+        "y": "37.424107"
       }
     }
   ]
