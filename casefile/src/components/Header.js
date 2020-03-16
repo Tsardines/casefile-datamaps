@@ -45,6 +45,10 @@ import {
                     <NavLink href="/crime_map">Crime Map</NavLink>
                 </NavItem>
 
+                <NavItem>
+                    <NavLink href="/episode_ratings">Episode Ratings</NavLink>
+                </NavItem>
+
               </Nav>
             </Collapse>
           </Navbar>

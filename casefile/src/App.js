@@ -8,7 +8,7 @@ import "./components/Header.css";
 
 import Header from "./components/Header.js";
 import CrimeMap from "./components/CrimeMap.js";
-// import * as jsonData from './data/casefile-json.json';
+import EpisodeRatings from "./components/EpisodeRatings.js";
 
 import './App.css';
 
@@ -17,10 +17,9 @@ function App() {
       <BrowserRouter>
       <div className="App">
         <Header />
-        <CrimeMap />
           <Switch>
             <Route path="/crime_map" component={CrimeMap} exact />
-            {/* <Route path="/episode_ratings" component={ratings} exact /> */}
+            <Route path="/episode_ratings" component={EpisodeRatings} exact />
 
             {/* <Route component={error} /> */}
           </Switch>  

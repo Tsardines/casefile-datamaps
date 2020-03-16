@@ -1137,8 +1137,8 @@
       "Method of Crime": "Possible tampering with scuba diving equipment or Negligence"
       },
       "geometry": {
-        "x": 142.702789,
-        "y": -20.917574
+        "x": 147.4167,
+        "y": -19.3167
       }
     },
     {
@@ -2867,7 +2867,7 @@
       "StateOfCrime": "New South Wales",
       "CityOfCrime": "Belanglo State Forest",
       "Number of Victims (Killed)": 7,
-      "VictimName": "Deborah Everist, James Gibson,  Simone Schmidl, Anja Habschied, Gabor Neugebauer, Joanne Walters, Caroline Clarke",
+      "VictimName": "Deborah Everist, James Gibson, Simone Schmidl, Anja Habschied, Gabor Neugebauer, Joanne Walters, Caroline Clarke",
       "Age of Victim": "19, 19, 21, 20, 21, 22, 21",
       "Gender of Victim": "F and M, F, F and M, F and F",
       "Perpetrator": "Ivan Millat",
@@ -2877,8 +2877,8 @@
       "Method of Crime": "Shooting, stabbing, blunt force trauma"
       },
       "geometry": {
-        "x": 150.22201427444918,
-        "y": -34.5173175288704
+        "x": 150.2326,
+        "y": -34.5330
       }
     },
     {
@@ -3719,6 +3719,66 @@
       "geometry": {
         "x": -122.166077,
         "y": 37.424107
+      }
+    },
+    {
+      "attributes": {
+        "FID": 138,
+        "CaseName": "The Batavia",
+        "Episode Date (M/D/Y)": "2/29/2020",
+        "Length of Case": "1:24:10",
+        "Researched by": "Erin Munro",
+        "Written by": "Erin Munro",
+        "Episode Rating": 4.43,
+        "Number of Votes": 23,
+        "SolvedOrUnsolved": "Solved",
+        "Date of Crime (M/D/Y)": "1629",
+        "CountryOfCrime": "Australia",
+        "StateOfCrime": "Beacon Island",
+        "CityOfCrime": "Morning Reef",
+        "Number of Victims (Killed)": "110-125",
+        "VictimName": "110-125 killed",
+        "Age of Victim": "",
+        "Gender of Victim": "",
+        "Perpetrator": "Jeronimus Cornelisz",
+        "Age of Perpetrator During Crime": 31,
+        "Gender of Perpetrator": "M",
+        "Type of Crime": "Massacre, Mutiny",
+        "Method of Crime": "Stabbing, drowning, bludgeoning, suffocation, stabbing"
+      },
+      "geometry": {
+        "x": 113.7858,
+        "y": -28.4753
+      }
+    },
+    {
+      "attributes": {
+        "FID": 139,
+        "CaseName": "Beryl & Geraldine Evans (2 parter)",
+        "Episode Date (M/D/Y)": "3/13/2020",
+        "Length of Case": "1:20:50",
+        "Researched by": "Anonymous Host, Erin Munro",
+        "Written by": "Erin Munro",
+        "Episode Rating": 4.00,
+        "Number of Votes": 4,
+        "SolvedOrUnsolved": "Solved",
+        "Date of Crime (M/D/Y)": "11/10/1949",
+        "CountryOfCrime": "England",
+        "StateOfCrime": "West London",
+        "CityOfCrime": "Notting Hill",
+        "Number of Victims (Killed)": 2,
+        "VictimName": "Geraldine Evans, Beryl Evans",
+        "Age of Victim": "1, 20",
+        "Gender of Victim": "F",
+        "Perpetrator": "Stephen Blake Crawford",
+        "Age of Perpetrator During Crime": 28,
+        "Gender of Perpetrator": "",
+        "Type of Crime": "Murder",
+        "Method of Crime": "Strangulation, assault"
+      },
+      "geometry": {
+        "x": -0.2090,
+        "y": 51.5160
       }
     }
   ]
