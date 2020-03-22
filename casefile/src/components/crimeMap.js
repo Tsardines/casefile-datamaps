@@ -1,9 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ReactMapGL, { Marker, Popup } from "react-map-gl";
-
-// import * as crimeData from "../data/casefile-json.json";
 import * as crimeData from "../data/casefile-final.json";
-
 
 import "./CrimeMap.css";
 
@@ -52,19 +49,19 @@ export default function CrimeMap() {
           latitude={crime.geometry.y} 
           longitude={crime.geometry.x}
         >
-        <button 
-          className="marker-btn" 
-          onClick={(e) => {
-            e.preventDefault(); 
-            setSelectedLocation(crime);
-          }}
-        >
-        {crime.attributes.SolvedOrUnsolved === "Solved" ? 
-          ( <img src={marker} alt="marker-alt" />
-          ) : <img src={markerUnsolved} alt="marker-unsolved" />
-        }
-          
-        </button>
+          <button 
+            className="marker-btn" 
+            onClick={(e) => {
+              e.preventDefault(); 
+              setSelectedLocation(crime);
+            }}
+          >
+          {crime.attributes.SolvedOrUnsolved === "Solved" ? 
+            ( <img src={marker} alt="marker-alt" /> ) 
+            : <img src={markerUnsolved} alt="marker-unsolved" />
+          }
+            
+          </button>
 
         </Marker>
        ))}

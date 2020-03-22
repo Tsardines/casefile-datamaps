@@ -1,5 +1,4 @@
 import React from 'react';
-
 import "./Header.css";
 
 import {
@@ -30,28 +29,28 @@ import {
     render() {
       return (
 
-          <Navbar class="nav_container" dark expand="md">
+        <Navbar class="nav_container" dark expand="md">
 
-            {/* <NavbarToggler onClick={this.toggle} /> */}
-            <Collapse isOpen={this.state.isOpen} navbar>
-            
-              <Nav className="mr-auto" navbar>
-  
-                <NavItem>
-                    <NavLink href="/">Home</NavLink>
-                </NavItem>
+          {/* <NavbarToggler onClick={this.toggle} /> */}
+          <Collapse isOpen={this.state.isOpen} navbar>
+          
+            <Nav className="mr-auto" navbar>
 
-                <NavItem>
-                    <NavLink href="/crime_map">Crime Map</NavLink>
-                </NavItem>
+              <NavItem>
+                  <NavLink href="/">Home</NavLink>
+              </NavItem>
 
-                <NavItem>
-                    <NavLink href="/episode_ratings">Episode Ratings</NavLink>
-                </NavItem>
+              <NavItem>
+                  <NavLink href="/crime_map">Crime Map</NavLink>
+              </NavItem>
 
-              </Nav>
-            </Collapse>
-          </Navbar>
+              <NavItem>
+                  <NavLink href="/episode_ratings">Episode Ratings</NavLink>
+              </NavItem>
+
+            </Nav>
+          </Collapse>
+        </Navbar>
 
       );
     }

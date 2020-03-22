@@ -13,20 +13,20 @@ import EpisodeRatings from "./components/EpisodeRatings.js";
 import './App.css';
 
 function App() {
-		return (
-      <BrowserRouter>
-      <div className="App">
-        <Header />
-          <Switch>
-            <Route path="/crime_map" component={CrimeMap} exact />
-            <Route path="/episode_ratings" component={EpisodeRatings} exact />
+  return (
+    <BrowserRouter>
+    <div className="App">
+      <Header />
+        <Switch>
+          <Route path="/crime_map" component={CrimeMap} exact />
+          <Route path="/episode_ratings" component={EpisodeRatings} exact />
 
-            {/* <Route component={error} /> */}
-          </Switch>  
-          {/* <Footer />         */}
-      </div>
-    </BrowserRouter>
-    )
+          {/* <Route component={error} /> */}
+        </Switch>  
+        {/* <Footer />         */}
+    </div>
+  </BrowserRouter>
+  )
 } 
 
 export default App;
