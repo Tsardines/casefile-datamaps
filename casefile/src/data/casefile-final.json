@@ -3667,11 +3667,11 @@
         "FID": 139,
         "CaseName": "Beryl & Geraldine Evans (2 parter)",
         "Episode Date (M/D/Y)": "3/13/2020",
-        "Length of Case": "1:20:50",
+        "Length of Case": "3:11:19",
         "Researched by": "Anonymous Host, Erin Munro",
         "Written by": "Erin Munro",
-        "EpisodeRating": 4.00,
-        "Number of Votes": 4,
+        "EpisodeRating": 4.21,
+        "Number of Votes": 14,
         "SolvedOrUnsolved": "Solved",
         "Date of Crime (M/D/Y)": "11/10/1949",
         "CountryOfCrime": "England",
@@ -3681,15 +3681,45 @@
         "VictimName": "Geraldine Evans, Beryl Evans",
         "Age of Victim": "1, 20",
         "Gender of Victim": "F",
-        "Perpetrator": "Stephen Blake Crawford",
-        "Age of Perpetrator During Crime": 28,
-        "Gender of Perpetrator": "",
+        "Perpetrator": "John Christie",
+        "Age of Perpetrator During Crime": 50,
+        "Gender of Perpetrator": "Male",
         "Type of Crime": "Murder",
         "Method of Crime": "Strangulation, assault"
       },
       "geometry": {
         "x": -0.2090,
         "y": 51.5160
+      }
+    },
+    {
+      "attributes": {
+        "FID": 140,
+        "CaseName": "Richmond Hill",
+        "Episode Date (M/D/Y)": "3/28/2020",
+        "Length of Case": "3:11:19",
+        "Researched by": "Elsha McGill",
+        "Written by": "Elsha McGill",
+        "EpisodeRating": 2.5,
+        "Number of Votes": 4,
+        "SolvedOrUnsolved": "Solved",
+        "Date of Crime (M/D/Y)": "11/10/2012",
+        "CountryOfCrime": "USA",
+        "StateOfCrime": "Indiana",
+        "CityOfCrime": "Richmond Hill",
+        "Number of Victims (Killed)": 2,
+        "VictimName": "John 'Dion' Longworth, Jennifer Longworth",
+        "Age of Victim": "34, 36",
+        "Gender of Victim": "M, F",
+        "Perpetrator": "Monserrate Shirley, Mark Leonard, Bob Leonard, Gary Thompson, Glenn Hults",
+        "Age of Perpetrator During Crime": "52, 50",
+        "Gender of Perpetrator": "F, M, M",
+        "Type of Crime": "Arson",
+        "Method of Crime": "Explosion"
+      },
+      "geometry": {
+        "x": -86.0982,
+        "y": 39.6452
       }
     }
   ]
