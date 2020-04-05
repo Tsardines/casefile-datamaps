@@ -13,8 +13,8 @@ export default function CrimeMap() {
   const [viewport, setViewport] = useState({
     latitude: 45.420304,
     longitude: 75.6977,
-    width: '100vw',
-    height: '100vh',
+    width: '90vw',
+    height: '80vh',
     zoom: 1
   })
 
@@ -57,7 +57,7 @@ export default function CrimeMap() {
             }}
           >
           {crime.attributes.SolvedOrUnsolved === "Solved" ? 
-            ( <img src={marker} alt="marker-alt" /> ) 
+            ( <img src={marker} alt="marker-solved" /> ) 
             : <img src={markerUnsolved} alt="marker-unsolved" />
           }
             

@@ -4,10 +4,12 @@
     cursor: pointer
 }
 
-.marker-btn img {
+/* .marker-btn img {
     height: 2rem;
     width: 2rem;
-}
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+} */
 
 .mapboxgl-popup-close-button {
     font-size: 1.75rem;
@@ -15,4 +17,17 @@
 
 .crime_popup {
     width: 20rem;
+}
+
+.CrimeMap {
+    padding: 1rem;
+}
+
+.mapboxgl-popup-content {
+    border: 1px solid black;
+}
+
+.mapboxgl-popup-tip {
+    border-right-color: black;
+    border-top-color: black;
 }
