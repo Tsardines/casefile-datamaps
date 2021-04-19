@@ -1,0 +1,134 @@
+{
+    "objectIdFieldName": "FID",
+    "uniqueIdField": {
+      "name": "FID",
+      "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326
+    },
+    "fields": [
+      {
+        "name": "FID",
+        "type": "esriFieldTypeOID",
+        "alias": "FID",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Trade_Name",
+        "type": "esriFieldTypeString",
+        "alias": "Trade_Name",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Concept",
+        "type": "esriFieldTypeString",
+        "alias": "Concept",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "LICENSE__T",
+        "type": "esriFieldTypeString",
+        "alias": "LICENSE__T",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Location",
+        "type": "esriFieldTypeString",
+        "alias": "Location",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "X",
+        "type": "esriFieldTypeDouble",
+        "alias": "X",
+        "sqlType": "sqlTypeFloat",
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Y_Coordina",
+        "type": "esriFieldTypeDouble",
+        "alias": "Y_Coordina",
+        "sqlType": "sqlTypeFloat",
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Website",
+        "type": "esriFieldTypeString",
+        "alias": "Website",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Twitter",
+        "type": "esriFieldTypeString",
+        "alias": "Twitter",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Facebook",
+        "type": "esriFieldTypeString",
+        "alias": "Facebook",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      }
+    ],
+    "cases": [
+      {
+        "attributes": {
+          "CaseNumber": 1,
+          "CaseName": "The Wanda Beach Murders",
+          "Episode Date (M/D/Y)": "1/9/2016",
+          "Length of Case": "1:14:02",
+          "Researched by": "Anonymous Host",
+          "Written by": "Anonymous Host",
+          "Episode Rating": 3.88,
+          "Number of Votes": 569,
+          "SolvedOrUnsolved": "Unsolved",
+          "Date of Crime (M/D/Y)": "1/11/1965",
+          "CountryOfCrime": "Australia",
+          "StateOfCrime": "New South Wales",
+          "CityOfCrime": "Sydney",
+          "Number of Victims (Killed)": 2,
+          "VictimName": "Marianne Schmidt, Christine Sharrock",
+          "Age of Victim": 15,
+          "Gender of Victim": "F",
+          "Perpetrator": "Unknown",
+          "Age of Perpetrator During Crime": "Unknown",
+          "Gender of Perpetrator": "Unknown",
+          "Type of Crime": "Murder, sexual assault",
+          "Method of Crime": "Stabbing, beating"
+          },
+          "geometry": {
+            "x": -33.868820,
+            "y": 151.209290
+          }
+        }
+    ]
+}

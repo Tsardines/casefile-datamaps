@@ -1,0 +1,4109 @@
+{
+  "Cases": [
+    {
+    "attributes": {
+      "Case Number": 1,
+      "Case Name": "The Wanda Beach Murders",
+      "Episode Date (M/D/Y)": "1/9/2016",
+      "Length of Case": "1:14:02",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.88,
+      "Number of Votes": 569,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "1/11/1965",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Sydney",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Marianne Schmidt, Christine Sharrock",
+      "Age of Victim": 15,
+      "Gender of Victim": "F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder, sexual assault",
+      "Method of Crime": "Stabbing, beating"
+      },
+      "geometry": {
+        "x": -33.868820,
+        "y": 151.209290
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 2,
+      "Case Name": "The Somerton Man",
+      "Episode Date (M/D/Y)": "1/16/2016",
+      "Length of Case": "0:44:11",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.86,
+      "Number of Votes": 567,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "12/1/1948",
+      "Country of Crime": "Australia",
+      "State of Crime": "South Australia",
+      "City of Crime": "Adelaide",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Somerton Man",
+      "Age of Victim": "40s",
+      "Gender of Victim": "M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Unknown",
+      "Method of Crime": "Possible poisoning"
+      },
+      "geometry": {
+        "x": "-34.928497",
+        "y": "138.600739"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 3,
+      "Case Name": "Lauria Bible and Ashley Freeman",
+      "Episode Date (M/D/Y)": "1/23/2016",
+      "Length of Case": "0:36:28",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.84,
+      "Number of Votes": 505,
+      "Solved or Unsolved": "Solved (ongoing)",
+      "Date of Crime (M/D/Y)": "1/29/1999",
+      "Country of Crime": "USA",
+      "State of Crime": "Oklahoma",
+      "City of Crime": "Welch",
+      "Number of Victims (Killed)": 4,
+      "Victim Name": "Kathy Freeman, Daniel Freeman, Lauria Bible, Ashley Freeman",
+      "Age of Victim": "Unknown, Unknown, 16, 16",
+      "Gender of Victim": "F, M, F, F",
+      "Perpetrator": "Ronald Busick, Warren Welch II, David Pennington",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "M, M, M",
+      "Type of Crime": "Murder, possible sexual assault",
+      "Method of Crime": "Arson, shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 4,
+      "Case Name": "Who Put Bella in the \"Witch\" Elm",
+      "Episode Date (M/D/Y)": "1/30/2016",
+      "Length of Case": "0:31:27",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.15,
+      "Number of Votes": 507,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "4/18/1943",
+      "Country of Crime": "England",
+      "State of Crime": "Worcestershire",
+      "City of Crime": "Hagley",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Unknown",
+      "Age of Victim": "30s",
+      "Gender of Victim": "F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Suffocation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 5,
+      "Case Name": "Donna Wheeler",
+      "Episode Date (M/D/Y)": "2/6/2016",
+      "Length of Case": "0:24:07",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.5,
+      "Number of Votes": 389,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "11/2/1999",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Sydney",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Donna Wheeler",
+      "Age of Victim": 30,
+      "Gender of Victim": "F",
+      "Perpetrator": "Colin Bond",
+      "Age of Perpetrator During Crime": "40s",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": -33.868820,
+        "y": 151.209290
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 6,
+      "Case Name": "Roger Dean",
+      "Episode Date (M/D/Y)": "2/13/2016",
+      "Length of Case": "0:32:29",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.62,
+      "Number of Votes": 383,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "11/18/2011",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Sydney",
+      "Number of Victims (Killed)": 11,
+      "Victim Name": "Dorothy Wu, Alma Smith, Reginald Green, Lola Bennett, Ella Wood, Urbana Alipio, Caesar Galea, Doris Becke, Verna Webeck, Dorothy Sterling, Neeltje Valkay",
+      "Age of Victim": "73-97",
+      "Gender of Victim": "F, F, M, F, F, F, M, F, F, F, F",
+      "Perpetrator": "Roger Dean",
+      "Age of Perpetrator During Crime": 35,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, theft of drugs",
+      "Method of Crime": "Arson"
+      },
+      "geometry": {
+        "x": -33.868820,
+        "y": 151.209290
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 7,
+      "Case Name": "Julian Buchwald and Carolynne Watson",
+      "Episode Date (M/D/Y)": "2/20/2016",
+      "Length of Case": "0:20:54",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.68,
+      "Number of Votes": 376,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/4/2008",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Churchill",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Carolynne Watson",
+      "Age of Victim": 17,
+      "Gender of Victim": "F",
+      "Perpetrator": "Julian Buchwald",
+      "Age of Perpetrator During Crime": 22,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Kidnapping, assault",
+      "Method of Crime": "Kidnapping, assault"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 8,
+      "Case Name": "Holly Wells and Jessica Chapman",
+      "Episode Date (M/D/Y)": "2/27/2016",
+      "Length of Case": "0:32:22",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.98,
+      "Number of Votes": 449,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "8/4/2002",
+      "Country of Crime": "England",
+      "State of Crime": "Cambridgeshire",
+      "City of Crime": "Soham",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Holly Wells, Jessica Chapman",
+      "Age of Victim": 10,
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Ian Huntley",
+      "Age of Perpetrator During Crime": 25,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, kidnapping, sexual assault",
+      "Method of Crime": "Suffocation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 9,
+      "Case Name": "Jonathan Luna",
+      "Episode Date (M/D/Y)": "3/5/2016",
+      "Length of Case": "0:34:19",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.56,
+      "Number of Votes": 392,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "12/4/2003",
+      "Country of Crime": "USA",
+      "State of Crime": "Pennsylvania",
+      "City of Crime": "Lancaster County",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Jonathan Luna",
+      "Age of Victim": 38,
+      "Gender of Victim": "M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Probable murder, kidnapping, corruption",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 10,
+      "Case Name": "Peter Shellard",
+      "Episode Date (M/D/Y)": "3/12/2016",
+      "Length of Case": "0:21:03",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.59,
+      "Number of Votes": 352,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/7/2005",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Peter Shellard",
+      "Age of Victim": 56,
+      "Gender of Victim": "M",
+      "Perpetrator": "Shirley Withers",
+      "Age of Perpetrator During Crime": 39,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Overdose, beating, possible heart condition"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 11,
+      "Case Name": "Anneliese Michel",
+      "Episode Date (M/D/Y)": "3/19/2016",
+      "Length of Case": "0:44:58",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.67,
+      "Number of Votes": 419,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/1/1976",
+      "Country of Crime": "Germany",
+      "State of Crime": "Bavaria",
+      "City of Crime": "Klingenberg Am Main",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Anneliese Michel",
+      "Age of Victim": 23,
+      "Gender of Victim": "F",
+      "Perpetrator": "Josef Michel, Anna Michel,Ernst Alt, Arnold Renz",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "F, M, M, M",
+      "Type of Crime": "Negligent Homicide",
+      "Method of Crime": "Starvation, neglect"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 12,
+      "Case Name": "Katherine Knight",
+      "Episode Date (M/D/Y)": "3/26/2016",
+      "Length of Case": "0:46:03",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 4.17,
+      "Number of Votes": 506,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/29/2000",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Aberdeen",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "John Price",
+      "Age of Victim": 44,
+      "Gender of Victim": "M",
+      "Perpetrator": "Katherine Knight",
+      "Age of Perpetrator During Crime": 45,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing, mutilation of body, cannibalism"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 13,
+      "Case Name": "The Family Court Murders",
+      "Episode Date (M/D/Y)": "4/2/2016",
+      "Length of Case": "0:55:59",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.89,
+      "Number of Votes": 455,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "1980-1985",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "",
+      "Number of Victims (Killed)": 4,
+      "Victim Name": "David Opas, Graham Wykes, Pearl Watson, Stephen Blanchard",
+      "Age of Victim": "40s-60s",
+      "Gender of Victim": "M, M, F, M",
+      "Perpetrator": "Leonard Warwick",
+      "Age of Perpetrator During Crime": "30s",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, Politically motivated attacks",
+      "Method of Crime": "Bombing, shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 14,
+      "Case Name": "Helen Munnings",
+      "Episode Date (M/D/Y)": "4/9/2016",
+      "Length of Case": "0:24:36",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.65,
+      "Number of Votes": 361,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "7/23/2008",
+      "Country of Crime": "Australia",
+      "State of Crime": "Tasmania",
+      "City of Crime": "Burnie",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Helen Munnings",
+      "Age of Victim": 20,
+      "Gender of Victim": "F",
+      "Perpetrator": "Adam Taylor",
+      "Age of Perpetrator During Crime": 34,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Probable murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 15,
+      "Case Name": "The Weepy Voiced Killer",
+      "Episode Date (M/D/Y)": "4/16/2016",
+      "Length of Case": "0:27:33",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.77,
+      "Number of Votes": 510,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1980-1982",
+      "Country of Crime": "USA",
+      "State of Crime": "Minnesota",
+      "City of Crime": "",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Kimberly Compton, Kathleen Greening, Barbara Simons",
+      "Age of Victim": "18-40s",
+      "Gender of Victim": "F, F, F, F, F",
+      "Perpetrator": "Paul Michael Stephani",
+      "Age of Perpetrator During Crime": 37,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing, drowning, beating"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 16,
+      "Case Name": "Cris and Cru Kahui",
+      "Episode Date (M/D/Y)": "4/23/2016",
+      "Length of Case": "1:23:56",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.67,
+      "Number of Votes": 441,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "6/18/2006",
+      "Country of Crime": "New Zealand",
+      "State of Crime": "North Island",
+      "City of Crime": "Auckland",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Cris Kahui, Cru Kahui",
+      "Age of Victim": "3 months",
+      "Gender of Victim": "M, M",
+      "Perpetrator": "Chris Kahui",
+      "Age of Perpetrator During Crime": 21,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Head injuries"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 17,
+      "Case Name": "The Eriksson Twins",
+      "Episode Date (M/D/Y)": "4/30/2016",
+      "Length of Case": "0:33:24",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.82,
+      "Number of Votes": 492,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/17/2008",
+      "Country of Crime": "England",
+      "State of Crime": "Staffordshire",
+      "City of Crime": "Stoke-on-Trent",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Glenn Hollinshead",
+      "Age of Victim": 54,
+      "Gender of Victim": "M",
+      "Perpetrator": "Sabina Eriksson",
+      "Age of Perpetrator During Crime": 41,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Manslaughter",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 18,
+      "Case Name": "The North Hollywood Shootout",
+      "Episode Date (M/D/Y)": "5/8/2016",
+      "Length of Case": "1:02:14",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.75,
+      "Number of Votes": 472,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/28/1997",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Los Angeles",
+      "Number of Victims (Killed)": "",
+      "Victim Name": "",
+      "Age of Victim": "",
+      "Gender of Victim": "",
+      "Perpetrator": "Larry Phillips Jr., Emil Matasareanu",
+      "Age of Perpetrator During Crime": "27, 31",
+      "Gender of Perpetrator": "M, M",
+      "Type of Crime": "Bank Robbery",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 19,
+      "Case Name": "Snowtown",
+      "Episode Date (M/D/Y)": "5/15/2016",
+      "Length of Case": "1:31:32",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 4.34,
+      "Number of Votes": 547,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1992-1999",
+      "Country of Crime": "Australia",
+      "State of Crime": "South Australia",
+      "City of Crime": "",
+      "Number of Victims (Killed)": 12,
+      "Victim Name": "Clinton Trezise, Ray Davies, Michael Gardiner, Barry Lane, Thomas Trevilyan, Gavin Porter, Troy Youde, Frederick Brooks, Gary O'Dwyer, Elizabeth Haydon, David Johnson",
+      "Age of Victim": "18-42",
+      "Gender of Victim": "M, M, M, M, M, M, M, M, M, F, M",
+      "Perpetrator": "John Bunting, Robert Wagner, James Vlassakis, Mark Haydon",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "M, M, M, M, M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Shootings, strangulation, cannibalism"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 20,
+      "Case Name": "Stoni Blair and Stephen Berry",
+      "Episode Date (M/D/Y)": "5/22/2016",
+      "Length of Case": "0:34:00",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.75,
+      "Number of Votes": 410,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2012-2013",
+      "Country of Crime": "USA",
+      "State of Crime": "Michigan",
+      "City of Crime": "Detroit",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Stoni Blair, Stephen Berry",
+      "Age of Victim": "9, 13",
+      "Gender of Victim": "F, M",
+      "Perpetrator": "Mitchelle Blair",
+      "Age of Perpetrator During Crime": 33,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Blunt trauma, starvation, child abuse"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 21,
+      "Case Name": "Pamela Lawrence",
+      "Episode Date (M/D/Y)": "5/29/2016",
+      "Length of Case": "1:04:19",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.74,
+      "Number of Votes": 363,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/23/1994",
+      "Country of Crime": "Australia",
+      "State of Crime": "Western Australia",
+      "City of Crime": "Perth",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Pamela Lawrence",
+      "Age of Victim": "40s",
+      "Gender of Victim": "F",
+      "Perpetrator": "Simon Rochford",
+      "Age of Perpetrator During Crime": 24,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Blunt trauma"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 22,
+      "Case Name": "Marguerite Edwards",
+      "Episode Date (M/D/Y)": "6/12/2016",
+      "Length of Case": "0:28:06",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.63,
+      "Number of Votes": 345,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "8/2/1989",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Sydney",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Marguerite Edwards",
+      "Age of Victim": 41,
+      "Gender of Victim": "F",
+      "Perpetrator": "Christopher Lorenzo",
+      "Age of Perpetrator During Crime": 29,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": -33.868820,
+        "y": 151.209290
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 23,
+      "Case Name": "The Frankston Serial Killer (2 parter)",
+      "Episode Date (M/D/Y)": "6/19/2016",
+      "Length of Case": "1:02:12",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 4.09,
+      "Number of Votes": 462,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": 1993,
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Elizabeth Stevens, Debbie Fream, Natalie Russell",
+      "Age of Victim": "17-22",
+      "Gender of Victim": "F, F, F",
+      "Perpetrator": "Paul Denyer",
+      "Age of Perpetrator During Crime": 21,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing, strangulation"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 24,
+      "Case Name": "Russell Street Bombing (2 parter)",
+      "Episode Date (M/D/Y)": "7/7/2016",
+      "Length of Case": "1:00:03",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.84,
+      "Number of Votes": 486,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/27/1986",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Angela Taylor",
+      "Age of Victim": 21,
+      "Gender of Victim": "F",
+      "Perpetrator": "Craig Minogue, Peter Reed, Stan Taylor, Rodney Minogue",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "M, M, M, M",
+      "Type of Crime": "Murder, politically motivated attacks",
+      "Method of Crime": "Bombs"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 25,
+      "Case Name": "Prue Bird",
+      "Episode Date (M/D/Y)": "7/16/2016",
+      "Length of Case": "0:29:13",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.6,
+      "Number of Votes": 388,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/2/1992",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Prue Bird",
+      "Age of Victim": 13,
+      "Gender of Victim": "F",
+      "Perpetrator": "Leslie Camilleri",
+      "Age of Perpetrator During Crime": 23,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 26,
+      "Case Name": "Lisa Marie Young",
+      "Episode Date (M/D/Y)": "7/24/2016",
+      "Length of Case": "0:22:56",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.77,
+      "Number of Votes": 378,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "6/29/2002",
+      "Country of Crime": "Canada",
+      "State of Crime": "British Columbia",
+      "City of Crime": "Vancouver Island",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Lisa Marie Young",
+      "Age of Victim": 21,
+      "Gender of Victim": "F",
+      "Perpetrator": "Christopher Adair",
+      "Age of Perpetrator During Crime": 27,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Probable murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 27,
+      "Case Name": "The West Mesa Bone Collector",
+      "Episode Date (M/D/Y)": "7/31/2016",
+      "Length of Case": "0:31:10",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.64,
+      "Number of Votes": 427,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "2001-2005",
+      "Country of Crime": "USA",
+      "State of Crime": "New Mexico",
+      "City of Crime": "Albuquerque",
+      "Number of Victims (Killed)": 11,
+      "Victim Name": "Jamie Barela, Monica Candelaria, Victoria Chavez, Virginia Cloven, Syllania Edwards, Cinnamon Elks, Doreen Marquez, Julie Nieto, Veronica Romero, Evelyn Salazar, Michelle Valdez",
+      "Age of Victim": "15-32",
+      "Gender of Victim": "F, F, F, F, F, F, F, F, F, F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 28,
+      "Case Name": "Lindsay Buziak",
+      "Episode Date (M/D/Y)": "8/7/2016",
+      "Length of Case": "1:16:19",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 4.06,
+      "Number of Votes": 460,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "2/2/2008",
+      "Country of Crime": "Canada",
+      "State of Crime": "British Columbia",
+      "City of Crime": "Victoria",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Lindsay Buziak",
+      "Age of Victim": 25,
+      "Gender of Victim": "F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 29,
+      "Case Name": "The Burgate House Murders",
+      "Episode Date (M/D/Y)": "8/13/2016",
+      "Length of Case": "0:23:44",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.62,
+      "Number of Votes": 367,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "9/1/1986",
+      "Country of Crime": "England",
+      "State of Crime": "Hampshire",
+      "City of Crime": "Fordingbridge",
+      "Number of Victims (Killed)": 5,
+      "Victim Name": "Joseph Cleaver, Hilda Cleaver, Thomas Cleaver, Wendy Cleaver, Margaret Murphy",
+      "Age of Victim": "46-82",
+      "Gender of Victim": "M, F, M, F, F",
+      "Perpetrator": "George Stephenson",
+      "Age of Perpetrator During Crime": 35,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Strangulation, burning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 30,
+      "Case Name": "The Claremont Serial Killer",
+      "Episode Date (M/D/Y)": "8/20/2016",
+      "Length of Case": "0:56:26",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 4.18,
+      "Number of Votes": 451,
+      "Solved or Unsolved": "Solved (ongoing)",
+      "Date of Crime (M/D/Y)": "1996-1997",
+      "Country of Crime": "Australia",
+      "State of Crime": "Western Australia",
+      "City of Crime": "Perth",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Jane Rimmer, Ciara Glennon, Sarah Spiers",
+      "Age of Victim": "18-27",
+      "Gender of Victim": "F, F, F",
+      "Perpetrator": "Bradley Robert Edwards",
+      "Age of Perpetrator During Crime": 28,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, sexual assault",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 31,
+      "Case Name": "The Killer Couple",
+      "Episode Date (M/D/Y)": "8/28/2016",
+      "Length of Case": "0:39:51",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.89,
+      "Number of Votes": 393,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": 1986,
+      "Country of Crime": "Australia",
+      "State of Crime": "Western Australia",
+      "City of Crime": "Perth",
+      "Number of Victims (Killed)": 4,
+      "Victim Name": "Mary Nielson, Susannah Candy, Noelene Patterson, Denise Brown",
+      "Age of Victim": "17-31",
+      "Gender of Victim": "F, F, F, F, F",
+      "Perpetrator": "David and Catherine Birnie",
+      "Age of Perpetrator During Crime": 35,
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Murder, kidnapping, sexual assault",
+      "Method of Crime": "Stabbing, strangulation, overdose"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 32,
+      "Case Name": "Grace and Kathleen Holmes",
+      "Episode Date (M/D/Y)": "9/4/2016",
+      "Length of Case": "0:33:32",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.7,
+      "Number of Votes": 354,
+      "Solved or Unsolved": "Solved (ongoing)",
+      "Date of Crime (M/D/Y)": "8/30/1950",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Wyong",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Grace Holmes, Katherine Holmes",
+      "Age of Victim": "18, 11",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "William Birtle",
+      "Age of Perpetrator During Crime": 25,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, sexual assault",
+      "Method of Crime": "Blunt force trauma"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 33,
+      "Case Name": "Jaycee Lee Dugard",
+      "Episode Date (M/D/Y)": "9/18/2016",
+      "Length of Case": "1:06:54",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 4.27,
+      "Number of Votes": 490,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1991-2009",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "South Lake Tahoe",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Jaycee Lee Dugard",
+      "Age of Victim": 11,
+      "Gender of Victim": "F",
+      "Perpetrator": "Philip Garrido, Nancy Garrido",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Kidnapping, sexual assault",
+      "Method of Crime": "Kidnapping, assault"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 34,
+      "Case Name": "The Catholic Mafia",
+      "Episode Date (M/D/Y)": "9/25/2016",
+      "Length of Case": "0:57:00",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.9,
+      "Number of Votes": 460,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1952-1956",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": "",
+      "Victim Name": "",
+      "Age of Victim": "",
+      "Gender of Victim": "",
+      "Perpetrator": "Father John Day",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Pedophilia, police cover up",
+      "Method of Crime": "Pedophilia"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 35,
+      "Case Name": "Operation Mayan",
+      "Episode Date (M/D/Y)": "10/9/2016",
+      "Length of Case": "0:47:09",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.68,
+      "Number of Votes": 351,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/18/2011",
+      "Country of Crime": "England",
+      "State of Crime": "Wiltshire",
+      "City of Crime": "Swindon",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Becky Godden, Sian O'Callaghan",
+      "Age of Victim": "20s",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Christopher Halliwell",
+      "Age of Perpetrator During Crime": 45,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 36,
+      "Case Name": "Amok",
+      "Episode Date (M/D/Y)": "10/16/2016",
+      "Length of Case": "0:34:44",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.86,
+      "Number of Votes": 432,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "11/13/2000",
+      "Country of Crime": "Poland",
+      "State of Crime": "Lower Silesian Voivodeship",
+      "City of Crime": "Wroclaw",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Dariusz Janiszewski",
+      "Age of Victim": 35,
+      "Gender of Victim": "M",
+      "Perpetrator": "Krystian Bala",
+      "Age of Perpetrator During Crime": 27,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 37,
+      "Case Name": "The Yorkshire Ripper (3 parter)",
+      "Episode Date (M/D/Y)": "10/23/2016",
+      "Length of Case": "3:14:55",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 4.32,
+      "Number of Votes": 493,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1975-1980",
+      "Country of Crime": "England",
+      "State of Crime": "Yorkshire",
+      "City of Crime": "Bingley",
+      "Number of Victims (Killed)": 13,
+      "Victim Name": "Wilma McCann, Emily Jackson, Irene Richardson, Patricia Atkinson, Jayne McDonald, Jean Jordan,  Yvonne Pearson, Helen Rytka, Vera Millward,  Josephine Whitaker, Barbara Leach, Marguerite Walls, Jacqueline Hill",
+      "Age of Victim": "16-47",
+      "Gender of Victim": "F",
+      "Perpetrator": "Peter Sutcliffe",
+      "Age of Perpetrator During Crime": 29,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing, blunt trauma with a hammer"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 38,
+      "Case Name": "The Pikuls",
+      "Episode Date (M/D/Y)": "11/13/2016",
+      "Length of Case": "1:21:21",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 3.66,
+      "Number of Votes": 385,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/24/1987",
+      "Country of Crime": "USA",
+      "State of Crime": "New York",
+      "City of Crime": "Newburgh",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Diane Whitmore Pikul",
+      "Age of Victim": 44,
+      "Gender of Victim": "F",
+      "Perpetrator": "Joe Pikul",
+      "Age of Perpetrator During Crime": 52,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Strangling, bludgeoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 39,
+      "Case Name": "Janelle Patton",
+      "Episode Date (M/D/Y)": "12/3/2016",
+      "Length of Case": "1:00:53",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 3.79,
+      "Number of Votes": 359,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/31/2002",
+      "Country of Crime": "Australia",
+      "State of Crime": "",
+      "City of Crime": "Norfolk Island",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Janelle Patton",
+      "Age of Victim": 29,
+      "Gender of Victim": "F",
+      "Perpetrator": "Glen Peter Charles McNeill",
+      "Age of Perpetrator During Crime": 28,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing, bludgeoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 40,
+      "Case Name": "John Newman",
+      "Episode Date (M/D/Y)": "12/10/2016",
+      "Length of Case": "1:03:17",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 3.64,
+      "Number of Votes": 362,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "9/5/1994",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Sydney",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "John Newman",
+      "Age of Victim": 47,
+      "Gender of Victim": "M",
+      "Perpetrator": "Phuong Ngo",
+      "Age of Perpetrator During Crime": 36,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Assassination",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": -33.868820,
+        "y": 151.209290
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 41,
+      "Case Name": "Mr. Cruel",
+      "Episode Date (M/D/Y)": "1/8/2017",
+      "Length of Case": "1:03:42",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 4.07,
+      "Number of Votes": 523,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "1987-1990",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Sharon Wills, Nicola Lynas, Karmein Chan",
+      "Age of Victim": "13-Oct",
+      "Gender of Victim": "F, F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Abduction, assault, murder, pedophilia",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 42,
+      "Case Name": "Sherri Rasmussen",
+      "Episode Date (M/D/Y)": "1/14/2017",
+      "Length of Case": "1:04:22",
+      "Researched by": "Anonymous Host, Anna Priestland",
+      "Written by": "Anonymous Host, Anna Priestland",
+      "Episode Rating": 4.34,
+      "Number of Votes": 507,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/24/1986",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Van Nuys",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Sherri Rasmussen",
+      "Age of Victim": 29,
+      "Gender of Victim": "F",
+      "Perpetrator": "Stephanie Lazarus",
+      "Age of Perpetrator During Crime": 26,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder, staged burglary",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 43,
+      "Case Name": "Keith Warren",
+      "Episode Date (M/D/Y)": "1/22/2017",
+      "Length of Case": "0:44:57",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.6,
+      "Number of Votes": 352,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "7/31/1986",
+      "Country of Crime": "USA",
+      "State of Crime": "Maryland",
+      "City of Crime": "Silver Spring",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Keith Warren",
+      "Age of Victim": 19,
+      "Gender of Victim": "M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Probable homicide",
+      "Method of Crime": "Hanging"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 44,
+      "Case Name": "Peter Falconio",
+      "Episode Date (M/D/Y)": "1/29/2017",
+      "Length of Case": "1:53:25",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 4.26,
+      "Number of Votes": 516,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/14/2001",
+      "Country of Crime": "Australia",
+      "State of Crime": "Northern Territory",
+      "City of Crime": "Barrow Creek",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Peter Falconio",
+      "Age of Victim": 28,
+      "Gender of Victim": "M",
+      "Perpetrator": "Bradley John Murdoch",
+      "Age of Perpetrator During Crime": 43,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 45,
+      "Case Name": "Port Arthur",
+      "Episode Date (M/D/Y)": "2/11/2017",
+      "Length of Case": "1:20:08",
+      "Researched by": "Anonymous Host, Anna Priestland",
+      "Written by": "Anonymous Host, Anna Priestland",
+      "Episode Rating": 4.4,
+      "Number of Votes": 564,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "4/28/1996",
+      "Country of Crime": "Australia",
+      "State of Crime": "Tasmania",
+      "City of Crime": "Port Arthur",
+      "Number of Victims (Killed)": 35,
+      "Victim Name": "Winifred Joyce Aplin, Walter John Bennett, Nicole Louise Burgess, Sou Leng Chung, Elva Rhonda Gaylard, Zoe Anne Hall, Elizabeth Jayne Howard, Mary Elizabeth Howard, Mervyn John Howard, Ronald Noel Jary, Tony Vadivelu Kistan, Leslie Dennis Lever, Sarah Kate Loughton, David Martin, Noelene Joyce Martin, Pauline Virjeana Masters, Alannah Louise Mikac, Madeline Grace Mikac, Nannette Patricia Mikac, Andrew Bruce Mills, Peter Brenton Nash, Gwenda Joan Neander, Moh Yee William Ng, Anthony Nightingale, Mary Rose Nixon, Glenn Roy Pears, Russell James Pollard, Janette Kathleen Quin, Helene Maria Salzmann, Robert Graham Salzmann, Kate Elizabeth Scott, Kevin Vincent Sharp, Royce William Thompson, Jason Bernard Winter",
+      "Age of Victim": "Mar-72",
+      "Gender of Victim": "",
+      "Perpetrator": "Martin Bryant",
+      "Age of Perpetrator During Crime": 29,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Mass Murder, spree shooting",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 46,
+      "Case Name": "The Frankston and Tynong North Serial Killer",
+      "Episode Date (M/D/Y)": "2/19/2017",
+      "Length of Case": "1:06:00",
+      "Researched by": "Anonymous Host, Anna Priestland",
+      "Written by": "Anonymous Host, Anna Priestland",
+      "Episode Rating": 4.04,
+      "Number of Votes": 430,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "1980-1981",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 6,
+      "Victim Name": "Bertha Miller, Anne-Marie Sargent, Joy Carmel Summers, Bertha Miller, Narumol Stephenson, Catherine Linda Headland",
+      "Age of Victim": "14-73",
+      "Gender of Victim": "F, F, F, F, F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder, abduction",
+      "Method of Crime": "Unknown"
+      },
+      "geomet"-37.815149"{
+        "x": 0"144.9664076"
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 47,
+      "Case Name": "Yara Gambirasio",
+      "Episode Date (M/D/Y)": "2/25/2017",
+      "Length of Case": "0:44:41",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.84,
+      "Number of Votes": 396,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "11/26/2010",
+      "Country of Crime": "Italy",
+      "State of Crime": "Bergamo",
+      "City of Crime": "Brembate di Sopra",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Yara Gambirasio",
+      "Age of Victim": 13,
+      "Gender of Victim": "F",
+      "Perpetrator": "Massimo Giuseppe Bosetti",
+      "Age of Perpetrator During Crime": 40,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, pedophilia",
+      "Method of Crime": "Exposure, head injuries, superficial cuts"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 48,
+      "Case Name": "Suzy Lamplugh",
+      "Episode Date (M/D/Y)": "3/4/2017",
+      "Length of Case": "0:56:43",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.94,
+      "Number of Votes": 418,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "7/28/1986",
+      "Country of Crime": "England",
+      "State of Crime": "London",
+      "City of Crime": "Fulham",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Suzy Lamplugh",
+      "Age of Victim": 25,
+      "Gender of Victim": "F",
+      "Perpetrator": "John Cannan",
+      "Age of Perpetrator During Crime": 32,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Probable murder, disappearance",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 49,
+      "Case Name": "The Moors Murders (3 parter)",
+      "Episode Date (M/D/Y)": "3/19/2017",
+      "Length of Case": "5:02:01",
+      "Researched by": "Victoria Dieffenbacher",
+      "Written by": "Victoria Dieffenbacher",
+      "Episode Rating": 4.5,
+      "Number of Votes": 591,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1963-1965",
+      "Country of Crime": "England",
+      "State of Crime": "Manchester",
+      "City of Crime": "",
+      "Number of Victims (Killed)": 5,
+      "Victim Name": "Pauline Reade, John Kilbride, Keith Bennett, Lesley Ann Downey, Edward Evans",
+      "Age of Victim": "17-Oct",
+      "Gender of Victim": "",
+      "Perpetrator": "Ian Brady, Myra Hindley",
+      "Age of Perpetrator During Crime": "25, 21",
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Murder, kidnapping, sexual assault, sadism",
+      "Method of Crime": "Slit throat, strangulation, axe"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 50,
+      "Case Name": "Jennifer Pan",
+      "Episode Date (M/D/Y)": "4/16/2017",
+      "Length of Case": "2:39:52",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 4.47,
+      "Number of Votes": 652,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "11/8/2010",
+      "Country of Crime": "Canada",
+      "State of Crime": "Ontario",
+      "City of Crime": "Toronto",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Heui Hann Pan, Bich Ha",
+      "Age of Victim": "51, 40s",
+      "Gender of Victim": "M, F",
+      "Perpetrator": "Jennifer Pan, David Mylvaganam, Eric Carty, Daniel Wong",
+      "Age of Perpetrator During Crime": "25, 20s, 20s, 25",
+      "Gender of Perpetrator": "F, M, M, M",
+      "Type of Crime": "Murder, murder-for-hire",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 51,
+      "Case Name": "Tina Watson",
+      "Episode Date (M/D/Y)": "4/23/2017",
+      "Length of Case": "2:29:31",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 4.14,
+      "Number of Votes": 442,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/22/2003",
+      "Country of Crime": "Australia",
+      "State of Crime": "Queensland",
+      "City of Crime": "Wreck of SS Yongala",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Tina Watson",
+      "Age of Victim": 26,
+      "Gender of Victim": "F",
+      "Perpetrator": "Gabe Watson",
+      "Age of Perpetrator During Crime": 26,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Manslaughter",
+      "Method of Crime": "Possible tampering with scuba diving equipment  or Negligence"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 52,
+      "Case Name": "Mary & Beth Stauffer, Jason Wilkman",
+      "Episode Date (M/D/Y)": "5/6/2017",
+      "Length of Case": "1:56:18",
+      "Researched by": "Victoria Dieffenbacher",
+      "Written by": "Victoria Dieffenbacher",
+      "Episode Rating": 4.07,
+      "Number of Votes": 411,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/16/1980",
+      "Country of Crime": "USA",
+      "State of Crime": "Minnesota",
+      "City of Crime": "Duluth",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Mary Stauffer, Beth Stauffer, Jason Wilkman",
+      "Age of Victim": "36, 8, 6",
+      "Gender of Victim": "F, F, M",
+      "Perpetrator": "Ming Sen Shiue",
+      "Age of Perpetrator During Crime": 30,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Abduction, rape, imprisonment, stalking, murder",
+      "Method of Crime": "Guns"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 53,
+      "Case Name": "The East Area Rapist (5 parter)",
+      "Episode Date (M/D/Y)": "5/14/2017",
+      "Length of Case": "8:12:32",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 4.58,
+      "Number of Votes": 667,
+      "Solved or Unsolved": "Solved (ongoing)",
+      "Date of Crime (M/D/Y)": "1974-1986",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Sacramento",
+      "Number of Victims (Killed)": 13,
+      "Victim Name": "Claude Snelling, Brian Maggiore, Katie Maggiore, Robert Offerman, Debra Manning, Charlene Smith, Lyman Smith, Keith Harrington, Patrice Harrington, Manuela Witthuhn, Cheri Domingo, Gregory Sanchez, Janelle Cruz",
+      "Age of Victim": "13-50s",
+      "Gender of Victim": "M, M, F, M, F, F, M, M, F, F, F, M, F",
+      "Perpetrator": "Joseph James Deangelo",
+      "Age of Perpetrator During Crime": 30,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, sexual assault, burglaries, stalking",
+      "Method of Crime": "Shooting, bludgeoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 54,
+      "Case Name": "Daniel Morcombe",
+      "Episode Date (M/D/Y)": "7/2/2017",
+      "Length of Case": "1:27:20",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 4.45,
+      "Number of Votes": 567,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "12/7/2003",
+      "Country of Crime": "Australia",
+      "State of Crime": "Queensland",
+      "City of Crime": "Sunshine Coast",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Daniel Morcombe",
+      "Age of Victim": 13,
+      "Gender of Victim": "M",
+      "Perpetrator": "Brett Peter Cowan",
+      "Age of Perpetrator During Crime": 34,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, sexual assault, interfering wtih a corpse, pedophilia",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 55,
+      "Case Name": "Simone Strobel",
+      "Episode Date (M/D/Y)": "7/16/2017",
+      "Length of Case": "1:08:53",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 3.79,
+      "Number of Votes": 325,
+      "Solved or Unsolved": "Solved (ongoing)",
+      "Date of Crime (M/D/Y)": "2/11/2005",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Lismore",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Simone Strobel",
+      "Age of Victim": 25,
+      "Gender of Victim": "F",
+      "Perpetrator": "Tobias Suckfuell / Toby Moran",
+      "Age of Perpetrator During Crime": 25,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Suffocation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 56,
+      "Case Name": "Anita Cobby",
+      "Episode Date (M/D/Y)": "7/23/2017",
+      "Length of Case": "1:35:52",
+      "Researched by": "Victoria Dieffenbacher",
+      "Written by": "Victoria Dieffenbacher",
+      "Episode Rating": 4.32,
+      "Number of Votes": 503,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/2/1986",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Surry Hills",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Anita Cobby",
+      "Age of Victim": 26,
+      "Gender of Victim": "F",
+      "Perpetrator": "John Travers, Michael Murdoch, Michael Murphy, Gary Murphy, Les Murphy",
+      "Age of Perpetrator During Crime": "18-33",
+      "Gender of Perpetrator": "M, M, M, M, M",
+      "Type of Crime": "Murder, gang rape, sexual assault",
+      "Method of Crime": "Slit throat, beating"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 57,
+      "Case Name": "Walsh Street",
+      "Episode Date (M/D/Y)": "7/30/2017",
+      "Length of Case": "1:47:58",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.91,
+      "Number of Votes": 439,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/12/1988",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Damian Eyre, Steven Tynan",
+      "Age of Victim": "20, 22",
+      "Gender of Victim": "M, M",
+      "Perpetrator": "Victor Peirce, Trevor Pettingill, Anthony Leigh Farrell, Peter David McEvoy",
+      "Age of Perpetrator During Crime": "30, 23, est. 20s, est. 20s",
+      "Gender of Perpetrator": "M, M, M, M",
+      "Type of Crime": "Murder, ambush, gang violence",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 58,
+      "Case Name": "Shannon Matthews",
+      "Episode Date (M/D/Y)": "8/13/2017",
+      "Length of Case": "1:03:30",
+      "Researched by": "Anonymous Host, Victoria Dieffenbacher",
+      "Written by": "Anonymous Host, Victoria Dieffenbacher",
+      "Episode Rating": 3.91,
+      "Number of Votes": 416,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/19/2008",
+      "Country of Crime": "England",
+      "State of Crime": "West Yorkshire",
+      "City of Crime": "Dewsbury",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Shannon Matthews",
+      "Age of Victim": 9,
+      "Gender of Victim": "F",
+      "Perpetrator": "Michael Donovan, Karen Matthews",
+      "Age of Perpetrator During Crime": 39,
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Child neglect, kidnapping, false imprisonment, perverting the course of justice",
+      "Method of Crime": "Kidnapping"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 59,
+      "Case Name": "Amy Lynn Bradley",
+      "Episode Date (M/D/Y)": "8/19/2017",
+      "Length of Case": "1:13:14",
+      "Researched by": "Alyssa Fletcher, Elsha McGill, Milly Raso",
+      "Written by": "Alyssa Fletcher, Elsha McGill, Milly Raso",
+      "Episode Rating": 4.05,
+      "Number of Votes": 437,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "3/24/1998",
+      "Country of Crime": "Curacao",
+      "State of Crime": "Antilles",
+      "City of Crime": "",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Amy Lynn Bradley",
+      "Age of Victim": 23,
+      "Gender of Victim": "F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Disappearance, possible kidnapping",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 60,
+      "Case Name": "Jonestown (3 parter)",
+      "Episode Date (M/D/Y)": "9/17/2017",
+      "Length of Case": "3:23:16",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 4.47,
+      "Number of Votes": 595,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "11/18/1978",
+      "Country of Crime": "Guyana",
+      "State of Crime": "",
+      "City of Crime": "Jonestown",
+      "Number of Victims (Killed)": 918,
+      "Victim Name": "",
+      "Age of Victim": "",
+      "Gender of Victim": "",
+      "Perpetrator": "Jim Jones",
+      "Age of Perpetrator During Crime": 47,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Mass murder-suicide",
+      "Method of Crime": "Poisoning, guns, knife"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 61,
+      "Case Name": "The Lin Family",
+      "Episode Date (M/D/Y)": "9/29/2017",
+      "Length of Case": "1:03:45",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 4.32,
+      "Number of Votes": 545,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/18/2009",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "North Epping",
+      "Number of Victims (Killed)": 5,
+      "Victim Name": "Min Lin, Yun Lin, Irene Lin, Henry Lin, Terry Lin",
+      "Age of Victim": "45, 43, 39, 12, 9\n15",
+      "Gender of Victim": "M, F, F, M, M\nF",
+      "Perpetrator": "Lian Bin \"Robert\" Xie",
+      "Age of Perpetrator During Crime": 45,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Bludgeoning with a hammer-like object"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 62,
+      "Case Name": "The Honolulu Strangler",
+      "Episode Date (M/D/Y)": "10/7/2017",
+      "Length of Case": "0:41:57",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.47,
+      "Number of Votes": 436,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "1985-1986",
+      "Country of Crime": "USA",
+      "State of Crime": "Hawaii",
+      "City of Crime": "Honolulu",
+      "Number of Victims (Killed)": 5,
+      "Victim Name": "Vicki Gail Purdy, Regina Sakamoto, Denise Hughes, Louise Medeiros, Linda Pesce",
+      "Age of Victim": "25, 17, 21, 25, 36",
+      "Gender of Victim": "F, F, F, F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder, sexual assault",
+      "Method of Crime": "Strangulation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 63,
+      "Case Name": "Catherine Holmes and Georgina Watmore",
+      "Episode Date (M/D/Y)": "10/15/2017",
+      "Length of Case": "0:41:41",
+      "Researched by": "Anonymous Host",
+      "Written by": "Anonymous Host",
+      "Episode Rating": 3.67,
+      "Number of Votes": 341,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "4/15/1987",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Cowra",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Catherine Holmes, Georgina Watmore",
+      "Age of Victim": "29, 23",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Bludgeoning with a sharp, heavy weapon"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 64,
+      "Case Name": "Peter Weinberger",
+      "Episode Date (M/D/Y)": "10/29/2017",
+      "Length of Case": "0:56:05",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.73,
+      "Number of Votes": 379,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/4/1956",
+      "Country of Crime": "USA",
+      "State of Crime": "New York",
+      "City of Crime": "Westbury",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Peter Weinberger",
+      "Age of Victim": "1 month",
+      "Gender of Victim": "M",
+      "Perpetrator": "Angelo LaMarca",
+      "Age of Perpetrator During Crime": 31,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Kidnapping, extortion, murder",
+      "Method of Crime": "Abandonment to the elements"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 65,
+      "Case Name": "Allison Baden-Clay",
+      "Episode Date (M/D/Y)": "11/5/2017",
+      "Length of Case": "1:35:29",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 4.33,
+      "Number of Votes": 507,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "4/19/2012",
+      "Country of Crime": "Australia",
+      "State of Crime": "Queensland",
+      "City of Crime": "Brisbane",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Allison Baden-Clay",
+      "Age of Victim": 43,
+      "Gender of Victim": "F",
+      "Perpetrator": "Gerard Baden-Clay",
+      "Age of Perpetrator During Crime": 42,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Blunt force trauma"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 66,
+      "Case Name": "The Black Widow",
+      "Episode Date (M/D/Y)": "11/10/2017",
+      "Length of Case": "1:04:42",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.78,
+      "Number of Votes": 407,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1971-1986",
+      "Country of Crime": "USA",
+      "State of Crime": "North Carolina",
+      "City of Crime": "Alamance County",
+      "Number of Victims (Killed)": 4,
+      "Victim Name": "PD Kiser, Isla Taylor, James N. Taylor, Raymond Reid, Dwight Moore",
+      "Age of Victim": "40s-70s",
+      "Gender of Victim": "M, F, M, M, M",
+      "Perpetrator": "Blanche Taylor Moore",
+      "Age of Perpetrator During Crime": 35,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Poisoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 67,
+      "Case Name": "The Battle of Alcatraz",
+      "Episode Date (M/D/Y)": "11/18/2017",
+      "Length of Case": "1:09:09",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.83,
+      "Number of Votes": 481,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/2/1946",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "San Francisco",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Harold Stites, William Miller",
+      "Age of Victim": "49, unknown",
+      "Gender of Victim": "M, M",
+      "Perpetrator": "Bernard Coy, Joseph Cretzer, Marvin Hubbard",
+      "Age of Perpetrator During Crime": "46, 35, 33",
+      "Gender of Perpetrator": "M, M, M",
+      "Type of Crime": "Attempted prison escape",
+      "Method of Crime": "Guns"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 68,
+      "Case Name": "Escape from Alcatraz",
+      "Episode Date (M/D/Y)": "11/25/2017",
+      "Length of Case": "1:05:52",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.92,
+      "Number of Votes": 491,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "6/11/1962",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "San Francisco",
+      "Number of Victims (Killed)": "",
+      "Victim Name": "",
+      "Age of Victim": "",
+      "Gender of Victim": "",
+      "Perpetrator": "Frank Morris, John Anglin, Clarence Anglin, Allen West",
+      "Age of Perpetrator During Crime": "36, 32, 31, 33",
+      "Gender of Perpetrator": "M, M, M, M",
+      "Type of Crime": "Prison escape",
+      "Method of Crime": ""
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 69,
+      "Case Name": "Gary Patterson",
+      "Episode Date (M/D/Y)": "12/2/2017",
+      "Length of Case": "0:59:00",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.72,
+      "Number of Votes": 360,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/3/1997",
+      "Country of Crime": "USA",
+      "State of Crime": "Texas",
+      "City of Crime": "Waco",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Gary Patterson",
+      "Age of Victim": 33,
+      "Gender of Victim": "M",
+      "Perpetrator": "Sam Urick, Ted Young, Lisa Urick",
+      "Age of Perpetrator During Crime": "59, 50s, 30s",
+      "Gender of Perpetrator": "F, M, M",
+      "Type of Crime": "Murder, murder-for-hire",
+      "Method of Crime": "Buried alive, blunt trauma"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 70,
+      "Case Name": "The Kimberley Killer",
+      "Episode Date (M/D/Y)": "12/9/2017",
+      "Length of Case": "0:55:03",
+      "Researched by": "Gemma Harris",
+      "Written by": "Gemma Harris",
+      "Episode Rating": 3.93,
+      "Number of Votes": 418,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "6/9/1987",
+      "Country of Crime": "Australia",
+      "State of Crime": "Northern Territory / Western Australia",
+      "City of Crime": "Top End",
+      "Number of Victims (Killed)": 5,
+      "Victim Name": "Marcus Bullen, Lance Bullen, Philip Walkemeyer, Julie Warren, Terry Bolt",
+      "Age of Victim": "70, 42, 26, 25, 36",
+      "Gender of Victim": "M, M, M, F, M",
+      "Perpetrator": "Joseph Schwab",
+      "Age of Perpetrator During Crime": 26,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Spree killing",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 71,
+      "Case Name": "Elodie Morel",
+      "Episode Date (M/D/Y)": "12/17/2017",
+      "Length of Case": "0:56:30",
+      "Researched by": "Milly Raso, Nicolas Deliez",
+      "Written by": "Milly Raso, Nicolas Deliez",
+      "Episode Rating": 3.85,
+      "Number of Votes": 401,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/2/2005",
+      "Country of Crime": "France",
+      "State of Crime": "Occitanie",
+      "City of Crime": "Aigues-Mortes",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Elodie Morel",
+      "Age of Victim": 28,
+      "Gender of Victim": "F",
+      "Perpetrator": "Guillaume Mangot",
+      "Age of Perpetrator During Crime": 49,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, abduction, sexual assault",
+      "Method of Crime": "Possible suffocation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 72,
+      "Case Name": "Wilhelmina Kruger and Anna Dowlingkoa",
+      "Episode Date (M/D/Y)": "1/14/2018",
+      "Length of Case": "0:59:23",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.71,
+      "Number of Votes": 390,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "1/29/1966",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Wollongong",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Wilhelmina Kruger, Anna Dowlingkoa",
+      "Age of Victim": "56, 27",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing, strangulation, mutilation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 73,
+      "Case Name": "The Lady in the Barrel",
+      "Episode Date (M/D/Y)": "1/17/2018",
+      "Length of Case": "0:43:02",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.54,
+      "Number of Votes": 434,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/19/1878",
+      "Country of Crime": "USA",
+      "State of Crime": "New York",
+      "City of Crime": "New  York City",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Mary Ann Reinhardt",
+      "Age of Victim": "25-30",
+      "Gender of Victim": "F",
+      "Perpetrator": "Edward Reinhardt",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, concealing a dead body",
+      "Method of Crime": "Negative side effects of abortion"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 74,
+      "Case Name": "Eric Coy",
+      "Episode Date (M/D/Y)": "1/20/2018",
+      "Length of Case": "1:00:13",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.68,
+      "Number of Votes": 371,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "1/24/1987",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Martinez",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Eric Coy",
+      "Age of Victim": 9,
+      "Gender of Victim": "M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Throat slashed"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 75,
+      "Case Name": "Graeme Thorne",
+      "Episode Date (M/D/Y)": "1/28/2018",
+      "Length of Case": "1:03:58",
+      "Researched by": "Anna Priestland, Bonnie Lavelle Robinson",
+      "Written by": "Anna Priestland, Bonnie Lavelle Robinson",
+      "Episode Rating": 3.88,
+      "Number of Votes": 412,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/7/1960",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Sydney",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Graeme Thorne",
+      "Age of Victim": 8,
+      "Gender of Victim": "M",
+      "Perpetrator": "Stephen Bradley",
+      "Age of Perpetrator During Crime": 34,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Kidnapping, murder, ransom",
+      "Method of Crime": "Suffocation"
+      },
+      "geometry": {
+        "x": -33.868820,
+        "y": 151.209290
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 76,
+      "Case Name": "Silk Road (3 parter)",
+      "Episode Date (M/D/Y)": "2/11/2018",
+      "Length of Case": "3:51:51",
+      "Researched by": "Victoria Dieffenbacher",
+      "Written by": "Victoria Dieffenbacher",
+      "Episode Rating": 4.53,
+      "Number of Votes": 720,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2011-2013",
+      "Country of Crime": "USA",
+      "State of Crime": "",
+      "City of Crime": "",
+      "Number of Victims (Killed)": "",
+      "Victim Name": "",
+      "Age of Victim": "",
+      "Gender of Victim": "",
+      "Perpetrator": "Ross Ulbricht",
+      "Age of Perpetrator During Crime": 27,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Cybercrime, murder for hire",
+      "Method of Crime": "Internet"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 77,
+      "Case Name": "Mia Zapata",
+      "Episode Date (M/D/Y)": "3/11/2018",
+      "Length of Case": "1:02:15",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.92,
+      "Number of Votes": 490,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/7/1993",
+      "Country of Crime": "USA",
+      "State of Crime": "Washington",
+      "City of Crime": "Seattle",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Mia Zapata",
+      "Age of Victim": 27,
+      "Gender of Victim": "F",
+      "Perpetrator": "Jesus Mezquia",
+      "Age of Perpetrator During Crime": 38,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, sexual assault",
+      "Method of Crime": "Strangulation, beating"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 78,
+      "Case Name": "The Janabi Family",
+      "Episode Date (M/D/Y)": "3/17/2018",
+      "Length of Case": "1:48:22",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 4.21,
+      "Number of Votes": 522,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/12/2006",
+      "Country of Crime": "Iraq",
+      "State of Crime": "",
+      "City of Crime": "Mahmoudiya",
+      "Number of Victims (Killed)": 4,
+      "Victim Name": "Qasim al-Janabi, Fakhriyah al-Janabi, Abeer Hamza al-Janabi, Hadil al-Janabi",
+      "Age of Victim": "14-45",
+      "Gender of Victim": "M, F, F, F",
+      "Perpetrator": "Specialist James Barker, Sergeant Paul Cortez, Private Jesse Spielman, Private Bryan Howard, Former Private Bryan Green",
+      "Age of Perpetrator During Crime": "19-23",
+      "Gender of Perpetrator": "M, M, M, M, M",
+      "Type of Crime": "Murder, thrill killing, military killing, gang rape of a minor",
+      "Method of Crime": "Shooting, arson"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 79,
+      "Case Name": "Rayna Rison",
+      "Episode Date (M/D/Y)": "3/25/2018",
+      "Length of Case": "1:06:11",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 3.77,
+      "Number of Votes": 382,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/26/1993",
+      "Country of Crime": "USA",
+      "State of Crime": "Indian",
+      "City of Crime": "La Porte",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Rayna RIson",
+      "Age of Victim": 16,
+      "Gender of Victim": "F",
+      "Perpetrator": "Jason Tibbs",
+      "Age of Perpetrator During Crime": 16,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Strangulation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 80,
+      "Case Name": "Beth Barnard",
+      "Episode Date (M/D/Y)": "4/8/2018",
+      "Length of Case": "1:36:40",
+      "Researched by": "Anna Priestland",
+      "Written by": "Anna Priestland",
+      "Episode Rating": 4.12,
+      "Number of Votes": 451,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "9/22/1986",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Phillip Island",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Beth Barnard",
+      "Age of Victim": 23,
+      "Gender of Victim": "F",
+      "Perpetrator": "Fergus Cameron",
+      "Age of Perpetrator During Crime": 36,
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Murder, possible murder-suicide, possible double murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 81,
+      "Case Name": "Brian Wells",
+      "Episode Date (M/D/Y)": "4/15/2018",
+      "Length of Case": "1:40:39",
+      "Researched by": "Gemma Harris",
+      "Written by": "Gemma Harris",
+      "Episode Rating": 4.01,
+      "Number of Votes": 444,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "8/28/2003",
+      "Country of Crime": "USA",
+      "State of Crime": "Pennsylvania",
+      "City of Crime": "Erie",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Brian Wells",
+      "Age of Victim": 46,
+      "Gender of Victim": "M",
+      "Perpetrator": "Marjorie Diehl-Armstrong, Kenneth Barnes",
+      "Age of Perpetrator During Crime": "54, est. 50s",
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Murder, robbery",
+      "Method of Crime": "Bomb"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 82,
+      "Case Name": "Maria Korp",
+      "Episode Date (M/D/Y)": "4/22/2018",
+      "Length of Case": "1:42:41",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 4.1,
+      "Number of Votes": 445,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "8/5/2005",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Maria Korp",
+      "Age of Victim": 50,
+      "Gender of Victim": "F",
+      "Perpetrator": "Joe Korp, Tania Herman",
+      "Age of Perpetrator During Crime": "47, 38",
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Suffocation, beating, dehydration"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 83,
+      "Case Name": "Chantelle & Leela McDougall, Tony Popic",
+      "Episode Date (M/D/Y)": "5/6/2018",
+      "Length of Case": "1:08:12",
+      "Researched by": "Unknown",
+      "Written by": "Unknown",
+      "Episode Rating": 3.6,
+      "Number of Votes": 375,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": 2007,
+      "Country of Crime": "Australia",
+      "State of Crime": "Western Australia",
+      "City of Crime": "Nannup",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Chantelle McDougall, Leela McDougall, Tony Popic",
+      "Age of Victim": "27, 6, 40",
+      "Gender of Victim": "F, F, M",
+      "Perpetrator": "Simon Kadwell",
+      "Age of Perpetrator During Crime": 45,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Disappearance, possible murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 84,
+      "Case Name": "Lesley Molseed (2 parter)",
+      "Episode Date (M/D/Y)": "5/12/2018",
+      "Length of Case": "2:25:40",
+      "Researched by": "Milly Raso, Tayla Vos",
+      "Written by": "Milly Raso, Tayla Vos",
+      "Episode Rating": 4.07,
+      "Number of Votes": 460,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/5/1975",
+      "Country of Crime": "England",
+      "State of Crime": "West Yorkshire",
+      "City of Crime": "Rishworth Moor",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Lesley Molseed",
+      "Age of Victim": 11,
+      "Gender of Victim": "F",
+      "Perpetrator": "Ronald Castree",
+      "Age of Perpetrator During Crime": 22,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, assault",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 85,
+      "Case Name": "Tom Brown",
+      "Episode Date (M/D/Y)": "6/2/2018",
+      "Length of Case": "0:56:00",
+      "Researched by": "Anonymous Host",
+      "Written by": "Milly Raso, Tayla Vos",
+      "Episode Rating": 3.67,
+      "Number of Votes": 404,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "11/23/2016",
+      "Country of Crime": "USA",
+      "State of Crime": "Texas",
+      "City of Crime": "Canadian",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Tom Brown",
+      "Age of Victim": 18,
+      "Gender of Victim": "M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Disappearance, possible murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 86,
+      "Case Name": "Amy Allwine",
+      "Episode Date (M/D/Y)": "6/9/2018",
+      "Length of Case": "1:22:26",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 4.27,
+      "Number of Votes": 552,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": 2016,
+      "Country of Crime": "USA",
+      "State of Crime": "Minnesota",
+      "City of Crime": "Cottage Grove",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Amy Allwine",
+      "Age of Victim": 43,
+      "Gender of Victim": "F",
+      "Perpetrator": "Stephen Allwine",
+      "Age of Perpetrator During Crime": 42,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 87,
+      "Case Name": "Elaine O'Hara",
+      "Episode Date (M/D/Y)": "6/16/2018",
+      "Length of Case": "1:05:47",
+      "Researched by": "Bonnie Lavelle Robinson",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.96,
+      "Number of Votes": 424,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "8/22/2012",
+      "Country of Crime": "Ireland",
+      "State of Crime": "Dublin",
+      "City of Crime": "Shanganagh",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Elaine O'Hara",
+      "Age of Victim": 36,
+      "Gender of Victim": "F",
+      "Perpetrator": "Graham Dwyer",
+      "Age of Perpetrator During Crime": 36,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 88,
+      "Case Name": "Stephen Hilder",
+      "Episode Date (M/D/Y)": "7/7/2018",
+      "Length of Case": "1:04:00",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.78,
+      "Number of Votes": 418,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "7/4/2003",
+      "Country of Crime": "England",
+      "State of Crime": "Hereforeshire",
+      "City of Crime": "Hereford",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Stephen Hilder",
+      "Age of Victim": 20,
+      "Gender of Victim": "M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Unknown",
+      "Method of Crime": "Tampering with parachute"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 89,
+      "Case Name": "Ella Tundra",
+      "Episode Date (M/D/Y)": "7/14/2018",
+      "Length of Case": "1:01:30",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 4,
+      "Number of Votes": 542,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/3/2014",
+      "Country of Crime": "Scotland",
+      "State of Crime": "",
+      "City of Crime": "Glenrothes",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Paige Rolland,\nElla Durant",
+      "Age of Victim": "21, 18",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Richard Brittain",
+      "Age of Perpetrator During Crime": 28,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Attack (attempted murder?), \nStalking",
+      "Method of Crime": "Blunt force trauma"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 90,
+      "Case Name": "Hoddle Street",
+      "Episode Date (M/D/Y)": "7/28/2018",
+      "Length of Case": "1:09:41",
+      "Researched by": "Elsha McGill",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 4.01,
+      "Number of Votes": 492,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "8/9/1987",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 7,
+      "Victim Name": "Dusan Flajnik, Vesna Markovska, Robert Mitchell, Johnny Muscat, Gina Papaioannou, Tracy Skinner, Kenneth Stanton",
+      "Age of Victim": "21-53",
+      "Gender of Victim": "",
+      "Perpetrator": "Julian Knight",
+      "Age of Perpetrator During Crime": 19,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Mass Murder",
+      "Method of Crime": "Shooting"
+      },
+      "geomet"-37.815149"{
+        "x": 0"144.9664076"
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 91,
+      "Case Name": "Carly Ryan",
+      "Episode Date (M/D/Y)": "8/4/2018",
+      "Length of Case": "1:03:22",
+      "Researched by": "Elsha McGill, Milly Raso",
+      "Written by": "Elsha McGill,  Milly Raso",
+      "Episode Rating": 4.13,
+      "Number of Votes": 496,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/19/2007",
+      "Country of Crime": "Australia",
+      "State of Crime": "South Australia",
+      "City of Crime": "Port Elliott",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Carly Ryan",
+      "Age of Victim": 15,
+      "Gender of Victim": "F",
+      "Perpetrator": "Garry Francis Newman",
+      "Age of Perpetrator During Crime": 50,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, Paedophilia",
+      "Method of Crime": "Assualt, drowning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 92,
+      "Case Name": "Dnepropetrovsk Maniacs",
+      "Episode Date (M/D/Y)": "8/11/2019",
+      "Length of Case": "1:03:45",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.9,
+      "Number of Votes": 578,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": 2007,
+      "Country of Crime": "Ukraine",
+      "State of Crime": "",
+      "City of Crime": "Dnepropetrovsk",
+      "Number of Victims (Killed)": 32,
+      "Victim Name": "Ekaterina Ilchenko, Roman Tatarevich, Evgeniya Grischenko, Nikolai Serchuk, Egor Nechvoloda, Elena Shram, Valentina Hanzha, Andrei Sidyuck, Vadim Lyakhov, Sergei Yatzenko, Natalia Mamarchuk, Unnamed pregnant woman, Lidia Mikrenischeva",
+      "Age of Victim": "14-33",
+      "Gender of Victim": "",
+      "Perpetrator": "Viktor Sayenko, Igor Suprunyuk, Alexander Hanzha",
+      "Age of Perpetrator During Crime": 19,
+      "Gender of Perpetrator": "M, M, M",
+      "Type of Crime": "Thrill/Spree killing, animal abuse",
+      "Method of Crime": "Blunt force trauma with objects like hammers, bars, etc. Mutilation of body with items like screwdrivers."
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 93,
+      "Case Name": "Susan Snow and  Bruce Nickell",
+      "Episode Date (M/D/Y)": "8/26/2018",
+      "Length of Case": "1:40:09",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 4.07,
+      "Number of Votes": 424,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": 1986,
+      "Country of Crime": "USA",
+      "State of Crime": "Washington",
+      "City of Crime": "Auburn",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Susan Snow, Bruce Nickell",
+      "Age of Victim": "40, 52",
+      "Gender of Victim": "F, M",
+      "Perpetrator": "Stella Nickell",
+      "Age of Perpetrator During Crime": 43,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Cyanide poisoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 94,
+      "Case Name": "Millie & Trevor Horn, Janice Saunders",
+      "Episode Date (M/D/Y)": "9/1/2018",
+      "Length of Case": "1:15:30",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.78,
+      "Number of Votes": 360,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/4/1993",
+      "Country of Crime": "USA",
+      "State of Crime": "Maryland",
+      "City of Crime": "Silver Springs",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Millie Horn, Trevor Horn, Janice Saunders",
+      "Age of Victim": "43, 8, 38",
+      "Gender of Victim": "F, M, F",
+      "Perpetrator": "James Perry, Lawrence Horn",
+      "Age of Perpetrator During Crime": "44, 54",
+      "Gender of Perpetrator": "M, M",
+      "Type of Crime": "Murder, murder for financial gain",
+      "Method of Crime": "Shooting, home invasion"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 95,
+      "Case Name": "The Vampire of Krakow",
+      "Episode Date (M/D/Y)": "9/8/2018",
+      "Length of Case": "1:17:04",
+      "Researched by": "Paulina Szymanska,  Mike Migas",
+      "Written by": "Elsha McGill, Milly Raso",
+      "Episode Rating": 3.51,
+      "Number of Votes": 404,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1964-1966",
+      "Country of Crime": "Poland",
+      "State of Crime": "",
+      "City of Crime": "Krakow",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Marii Plichty, Leszka Catka",
+      "Age of Victim": "77, 11",
+      "Gender of Victim": "F, M",
+      "Perpetrator": "Karol Kot",
+      "Age of Perpetrator During Crime": 18,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, sadism",
+      "Method of Crime": "Stabbing, arson, poisoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 96,
+      "Case Name": "The Toy Box (3 parter)",
+      "Episode Date (M/D/Y)": "9/22/2018",
+      "Length of Case": "3:42:08",
+      "Researched by": "Victoria Dieffenbacher, Milly Raso, Elsha McGill",
+      "Written by": "Victoria Dieffenbacher, Milly Raso, Elsha McGill",
+      "Episode Rating": 4.17,
+      "Number of Votes": 511,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1950-1999",
+      "Country of Crime": "USA",
+      "State of Crime": "New Mexico",
+      "City of Crime": "Elephant Butte",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Cynthia Vigil, Angelica Montano, Kelli Garrett, Marie Parker",
+      "Age of Victim": "21, 20s, 20s, 20s",
+      "Gender of Victim": "F, F, F, F",
+      "Perpetrator": "David Ray Parker, Dennis Roy Yancy, Cindy Hendy, Glenda \"Jessie\" Ray",
+      "Age of Perpetrator During Crime": "20s-60, 39, 27, 32",
+      "Gender of Perpetrator": "F, F, M, M",
+      "Type of Crime": "Murder, kidnapping, rape, torture, drugging",
+      "Method of Crime": "Various"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 97,
+      "Case Name": "Rebecca Schaeffer",
+      "Episode Date (M/D/Y)": "10/20/2018",
+      "Length of Case": "1:23:02",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 4.05,
+      "Number of Votes": 385,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/18/1989",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Los Angeles",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Rebecca Schaeffer",
+      "Age of Victim": 21,
+      "Gender of Victim": "F",
+      "Perpetrator": "Robert Bardo",
+      "Age of Perpetrator During Crime": 19,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Stalking, murder",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 98,
+      "Case Name": "The Pillow Pyro",
+      "Episode Date (M/D/Y)": "10/27/2018",
+      "Length of Case": "1:39:38",
+      "Researched by": "Elsha McGill,  Milly Raso",
+      "Written by": "Elsha McGill,  Milly Raso",
+      "Episode Rating": 4.02,
+      "Number of Votes": 420,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/10/1984",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Pasadena",
+      "Number of Victims (Killed)": 4,
+      "Victim Name": "Ada Deal, Matthew Troidl, Carolyn Kraus, Jimmy Cetina",
+      "Age of Victim": "50, 2, 26, 17",
+      "Gender of Victim": "F, M, F, M",
+      "Perpetrator": "John Leonard Orr",
+      "Age of Perpetrator During Crime": 35,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Arson, death by arson",
+      "Method of Crime": "Arson"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 99,
+      "Case Name": "Becky Watts",
+      "Episode Date (M/D/Y)": "11/10/2018",
+      "Length of Case": "1:47:54",
+      "Researched by": "Victoria Dieffenbacher, Milly Raso, Elsha McGill",
+      "Written by": "Victoria Dieffenbacher, Milly Raso, Elsha McGill",
+      "Episode Rating": 4.15,
+      "Number of Votes": 365,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/19/2015",
+      "Country of Crime": "England",
+      "State of Crime": "Bristol",
+      "City of Crime": "Bristol",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Becky Watts",
+      "Age of Victim": 16,
+      "Gender of Victim": "F",
+      "Perpetrator": "Nathan Matthews, Shauna Hoare",
+      "Age of Perpetrator During Crime": "28, 21",
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Suffocation, dismemberment"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 100,
+      "Case Name": "The Beaumont Children",
+      "Episode Date (M/D/Y)": "11/17/2018",
+      "Length of Case": "1:57:48",
+      "Researched by": "Elsha McGill,  Milly Raso",
+      "Written by": "Elsha McGill,  Milly Raso",
+      "Episode Rating": 4.35,
+      "Number of Votes": 450,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "1/26/1966",
+      "Country of Crime": "Australia",
+      "State of Crime": "South Australia",
+      "City of Crime": "Adelaide",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Jane Nartare Beaumont, Arnna Kathleen Beaumont, Grant Ellis Beaumont",
+      "Age of Victim": "9,7,4",
+      "Gender of Victim": "F, F, M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Kidnapping, murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": "-34.928497",
+        "y": "138.600739"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 101,
+      "Case Name": "Sian Kingi",
+      "Episode Date (M/D/Y)": "11/24/2018",
+      "Length of Case": "1:34:26",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 4.16,
+      "Number of Votes": 314,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "11/27/1974",
+      "Country of Crime": "Australia",
+      "State of Crime": "Queensland",
+      "City of Crime": "Noosa",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Sian Kingi",
+      "Age of Victim": 12,
+      "Gender of Victim": "F",
+      "Perpetrator": "Barrie Watts, Valmae Beck",
+      "Age of Perpetrator During Crime": "33, 43",
+      "Gender of Perpetrator": "F, M",
+      "Type of Crime": "Murder, sexual assault",
+      "Method of Crime": "Stabbing, strangling"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 102,
+      "Case Name": "Britt Lapthorne",
+      "Episode Date (M/D/Y)": "11/30/2018",
+      "Length of Case": "1:57:14",
+      "Researched by": "Elsha McGill, Milly Raso",
+      "Written by": "Elsha McGill, Milly Raso",
+      "Episode Rating": 4.2,
+      "Number of Votes": 324,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "9/18/2008",
+      "Country of Crime": "Croatia",
+      "State of Crime": "Dubrovnik-Neretva",
+      "City of Crime": "Dubrovnik",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Britt Lapthorne",
+      "Age of Victim": 21,
+      "Gender of Victim": "F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Possible murder or misadventure",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 103,
+      "Case Name": "The Gonzales Family",
+      "Episode Date (M/D/Y)": "12/15/2018",
+      "Length of Case": "1:36:54",
+      "Researched by": "Gemma Harris",
+      "Written by": "Milly Raso and Elsha McGill",
+      "Episode Rating": 4.23,
+      "Number of Votes": 317,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/10/2001",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Sydney",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "Teddy Gonzales, Mary Loiva Josephine, Clodine Gonzales",
+      "Age of Victim": "46, 43, 18",
+      "Gender of Victim": "M, F, F",
+      "Perpetrator": "Sef Gonzales",
+      "Age of Perpetrator During Crime": 20,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Familicide",
+      "Method of Crime": "Stabbing, beating"
+      },
+      "geometry": {
+        "x": -33.868820,
+        "y": 151.209290
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 104,
+      "Case Name": "Mark and John",
+      "Episode Date (M/D/Y)": "12/22/2018",
+      "Length of Case": "1:04:27",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 4.43,
+      "Number of Votes": 338,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "6/28/2003",
+      "Country of Crime": "England",
+      "State of Crime": "Manchester",
+      "City of Crime": "Altrincham",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Mark",
+      "Age of Victim": 16,
+      "Gender of Victim": "M",
+      "Perpetrator": "John",
+      "Age of Perpetrator During Crime": 14,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Incitement to murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 53.386906,
+        "y": -2.348898
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 105,
+      "Case Name": "Louise Bell",
+      "Episode Date (M/D/Y)": "1/26/2019",
+      "Length of Case": "1:07:33",
+      "Researched by": "Elsha McGill",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 3.77,
+      "Number of Votes": 191,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1/4/1984",
+      "Country of Crime": "Australia",
+      "State of Crime": "South Australia",
+      "City of Crime": "Adelaide",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Louise Bell",
+      "Age of Victim": 10,
+      "Gender of Victim": "F",
+      "Perpetrator": "Dieter Pfennig",
+      "Age of Perpetrator During Crime": 35,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Abduction, murder, ransom",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": "-34.928497",
+        "y": "138.600739"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 106,
+      "Case Name": "Peter Nielsen (2 parter)",
+      "Episode Date (M/D/Y)": "2/2/2019",
+      "Length of Case": "2:17:26",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.94,
+      "Number of Votes": 236,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/24/2004",
+      "Country of Crime": "Switzerland",
+      "State of Crime": "Bulach",
+      "City of Crime": "Kloten",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Peter Nielsen",
+      "Age of Victim": 38,
+      "Gender of Victim": "M",
+      "Perpetrator": "Vitaly Kaloyev",
+      "Age of Perpetrator During Crime": 48,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 47.4524076473599,
+        "y": 8.560752138826214
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 107,
+      "Case Name": "Lucie Blackman & Carita Ridgway",
+      "Episode Date (M/D/Y)": "2/23/2019",
+      "Length of Case": "1:32:00",
+      "Researched by": "Catherine Seccombe",
+      "Written by": "Catherine Seccombe",
+      "Episode Rating": 3.81,
+      "Number of Votes": 169,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1992-2000",
+      "Country of Crime": "Japan",
+      "State of Crime": "Kanto",
+      "City of Crime": "Tokyo",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Carita Ridgway, Lucie Blackman",
+      "Age of Victim": "21, 21",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Joji Obara",
+      "Age of Perpetrator During Crime": "40, 48",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Serial assault and rape, murder",
+      "Method of Crime": "Poisoning, overdose"
+      },
+      "geometry": {
+        "x": 35.689506,
+        "y": 139.6917
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 108,
+      "Case Name": "The Kicevo Monster",
+      "Episode Date (M/D/Y)": "3/2/2019",
+      "Length of Case": "1:04:34",
+      "Researched by": "Elsha McGill",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 3.67,
+      "Number of Votes": 183,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2005-2008",
+      "Country of Crime": "Macedonia",
+      "State of Crime": "Kicevo Municipality",
+      "City of Crime": "Kicevo",
+      "Number of Victims (Killed)": 4,
+      "Victim Name": "Mitra Simjanoska, Ljubica Licoska, Zivana Temelkoska, Gorica Pavleska",
+      "Age of Victim": "64, 56, 65, 78",
+      "Gender of Victim": "F, F, F, F",
+      "Perpetrator": "Vlado Taneski",
+      "Age of Perpetrator During Crime": "53-55",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, kidnapping",
+      "Method of Crime": "Strangulation"
+      },
+      "geometry": {
+        "x": 42.8294443999999,
+        "y": 19.3686111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 109,
+      "Case Name": "Belanglo (5 parter)",
+      "Episode Date (M/D/Y)": "3/23/2019",
+      "Length of Case": "6:18:22",
+      "Researched by": "Anonymous Host",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 4.33,
+      "Number of Votes": 283,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1989-1993",
+      "Country of Crime": "Australia",
+      "State of Crime": "New South Wales",
+      "City of Crime": "Belanglo State Forest",
+      "Number of Victims (Killed)": 7,
+      "Victim Name": "Deborah Everist, James Gibson,  Simone Schmidl, Anja Habschied, Gabor Neugebauer, Joanne Walters, Caroline Clarke",
+      "Age of Victim": "19, 19, 21, 20, 21, 22, 21",
+      "Gender of Victim": "F and M, F, F and M, F and F",
+      "Perpetrator": "Ivan Millat",
+      "Age of Perpetrator During Crime": "45-49",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, sexual assault",
+      "Method of Crime": "Shooting, stabbing, blunt force trauma"
+      },
+      "geometry": {
+        "x": -34.5173175288704,
+        "y": 150.22201427444918
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 110,
+      "Case Name": "Muriel McKay",
+      "Episode Date (M/D/Y)": "5/4/2019",
+      "Length of Case": "1:27:16",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.64,
+      "Number of Votes": 148,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "12/29/1969",
+      "Country of Crime": "England",
+      "State of Crime": "Hertfordshire",
+      "City of Crime": "Stocking Pelham",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Muriel McKay",
+      "Age of Victim": 55,
+      "Gender of Victim": "F",
+      "Perpetrator": "Arthur Hosein, Nizamodeen Hosein",
+      "Age of Perpetrator During Crime": "34, 22",
+      "Gender of Perpetrator": "M, M",
+      "Type of Crime": "Kidnapping, blackmail, murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 51.944990,
+        "y": 0.115490
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 111,
+      "Case Name": "Shauna Howe",
+      "Episode Date (M/D/Y)": "5/18/2019",
+      "Length of Case": "1:15:22",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.76,
+      "Number of Votes": 127,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/30/1992",
+      "Country of Crime": "USA",
+      "State of Crime": "Pennsylvania",
+      "City of Crime": "Oil City",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Shauna Howe",
+      "Age of Victim": 11,
+      "Gender of Victim": "F",
+      "Perpetrator": "Eldred Walker, James O'Brien, Timothy O'Brien",
+      "Age of Perpetrator During Crime": "33, 20, 25",
+      "Gender of Perpetrator": "M, M, M",
+      "Type of Crime": "Kidnap, Murder",
+      "Method of Crime": "Blunt force trauma caused by a fall"
+      },
+      "geometry": {
+        "x": 41.43289,
+        "y": -79.708221
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 112,
+      "Case Name": "Rachel Barber",
+      "Episode Date (M/D/Y)": "5/25/2019",
+      "Length of Case": "1:12:56",
+      "Researched by": "Gemma Harris, Elsha McGill, and Milly Raso",
+      "Written by": "Gemma Harris, Elsha McGill, and Milly Raso",
+      "Episode Rating": 4.05,
+      "Number of Votes": 149,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/1/1999",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Melbourne",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Rachel Barber",
+      "Age of Victim": 15,
+      "Gender of Victim": "F",
+      "Perpetrator": "Carline Reed Robertson",
+      "Age of Perpetrator During Crime": 19,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Kidnap, Murder",
+      "Method of Crime": "Strangulation"
+      },
+      "geometry": {
+        "x": "-37.815149",
+        "y": "144.9664076"
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 113,
+      "Case Name": "Brendan Bernard",
+      "Episode Date (M/D/Y)": "6/1/2019",
+      "Length of Case": "1:09:45",
+      "Researched by": "Rick Best",
+      "Written by": "Rick Best",
+      "Episode Rating": 3.44,
+      "Number of Votes": 117,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1/27/2015",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Moonee Ponds",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Brendan Bernard",
+      "Age of Victim": 32,
+      "Gender of Victim": "M",
+      "Perpetrator": "Constantinos Spalarias, Edward Hill, Matthew Brennan",
+      "Age of Perpetrator During Crime": "31, 46 , 36",
+      "Gender of Perpetrator": "M, M, M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Strangulation, blunt force trauma, cutting up body"
+      },
+      "geometry": {
+        "x": -37.7657735,
+        "y": 144.9192054
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 114,
+      "Case Name": "Elisa Claps & Heather Barnett",
+      "Episode Date (M/D/Y)": "6/15/2019",
+      "Length of Case": "1:47:30",
+      "Researched by": "Mike Migas, Paulina Szymanska",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 4.04,
+      "Number of Votes": 134,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1993-2002",
+      "Country of Crime": "Italy",
+      "State of Crime": "Basilicata",
+      "City of Crime": "Potenza",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Elisa Claps, Heather Barnett",
+      "Age of Victim": "16, 48",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Danilo Restivo",
+      "Age of Perpetrator During Crime": "21, 30",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 40.640408,
+        "y": 15.805604
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 115,
+      "Case Name": "Operation Cathedral",
+      "Episode Date (M/D/Y)": "6/22/2019",
+      "Length of Case": "1:15:24",
+      "Researched by": "Milly Raso",
+      "Written by": "Milly Raso",
+      "Episode Rating": 3.97,
+      "Number of Votes": 139,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": 1998,
+      "Country of Crime": "England",
+      "State of Crime": "",
+      "City of Crime": "",
+      "Number of Victims (Killed)": "",
+      "Victim Name": "Unknown",
+      "Age of Victim": "Unknown",
+      "Gender of Victim": "M, F",
+      "Perpetrator": "Ian Baldock, David Hines, Gavin Seagers, Antoni Skinner, Andrew Barlow, Frederick Stephens, Ahmed Ali, Gary Salt, Stephen Ellis",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Rape, abduction, child pornography",
+      "Method of Crime": "Rape, abduction, child pornography"
+      },
+      "geometry": {
+        "x": "",
+        "y": ""
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 116,
+      "Case Name": "Chloe Ayling",
+      "Episode Date (M/D/Y)": "6/29/2019",
+      "Length of Case": "1:21:05",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.74,
+      "Number of Votes": 153,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "7/12/2017",
+      "Country of Crime": "Italy",
+      "State of Crime": "Lombardy",
+      "City of Crime": "Milan",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Chloe Ayling",
+      "Age of Victim": 20,
+      "Gender of Victim": "F",
+      "Perpetrator": "Lukasz Herba, Michal Herba",
+      "Age of Perpetrator During Crime": "30, 36",
+      "Gender of Perpetrator": "M, M",
+      "Type of Crime": "Kidnapping, ransom",
+      "Method of Crime": "Kidnapping"
+      },
+      "geometry": {
+        "x": 45.464664,
+        "y": 9.188540
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 117,
+      "Case Name": "Hannah Foster",
+      "Episode Date (M/D/Y)": "7/13/2019",
+      "Length of Case": "1:15:57",
+      "Researched by": "Erin Munro",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 3.85,
+      "Number of Votes": 123,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/14/2003",
+      "Country of Crime": "England",
+      "State of Crime": "Hampshire",
+      "City of Crime": "Southampton",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Hannah Foster",
+      "Age of Victim": 17,
+      "Gender of Victim": "F",
+      "Perpetrator": "Maninder Pal Singh Kohli",
+      "Age of Perpetrator During Crime": 37,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Rape, murder",
+      "Method of Crime": "Strangulation"
+      },
+      "geometry": {
+        "x": 50.909698,
+        "y": -1.404351
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 118,
+      "Case Name": "The Chicago Tylenol Murders",
+      "Episode Date (M/D/Y)": "7/21/2019",
+      "Length of Case": "1:23:03",
+      "Researched by": "Milly Raso, Anonymous Host",
+      "Written by": "Milly Raso",
+      "Episode Rating": 4.2,
+      "Number of Votes": 191,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": 1982,
+      "Country of Crime": "USA",
+      "State of Crime": "Illinois",
+      "City of Crime": "Chicago",
+      "Number of Victims (Killed)": 7,
+      "Victim Name": "Mary Kellerman, Adam Janus, Stanley Janus, Theresa Janus, Mary Reiner, Mary McFarland, Paula Prince",
+      "Age of Victim": "12, 27, 25, 19, 31, 27, 35",
+      "Gender of Victim": "F, M, M, F, F, F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Poisoning, Domestic Terrorism",
+      "Method of Crime": "Poisoning"
+      },
+      "geometry": {
+        "x": 41.881832,
+        "y": -87.623177
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 119,
+      "Case Name": "Abigail Williams and Liberty German",
+      "Episode Date (M/D/Y)": "7/27/2019",
+      "Length of Case": "1:09:00",
+      "Researched by": "Erin Munro, Anonymous Host",
+      "Written by": "Elsha McGill, Erin Munro, Milly Raso",
+      "Episode Rating": 3.92,
+      "Number of Votes": 146,
+      "Solved or Unsolved": "Unsolved (ongoing)",
+      "Date of Crime (M/D/Y)": "2/13/2017",
+      "Country of Crime": "USA",
+      "State of Crime": "Indiana",
+      "City of Crime": "Delphi",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Abigail Williams, Liberty German",
+      "Age of Victim": "13, 14",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 40.587536,
+        "y": -86.675003
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 120,
+      "Case Name": "Bill McGuire",
+      "Episode Date (M/D/Y)": "8/10/2019",
+      "Length of Case": "1:06:03",
+      "Researched by": "Flossie Arend",
+      "Written by": "Flossie Arend, Elsha McGill, Milly Raso",
+      "Episode Rating": 3.69,
+      "Number of Votes": 111,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "4/28/2004",
+      "Country of Crime": "USA",
+      "State of Crime": "New Jersey",
+      "City of Crime": "Woodbridge",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Bill McGuire",
+      "Age of Victim": 39,
+      "Gender of Victim": "M",
+      "Perpetrator": "Melanie McGuire",
+      "Age of Perpetrator During Crime": 32,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Shooting, dismemberment"
+      },
+      "geometry": {
+        "x": 40.560001,
+        "y": -74.290001
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 121,
+      "Case Name": "The Freeway Phantom",
+      "Episode Date (M/D/Y)": "8/17/2019",
+      "Length of Case": "1:23:17",
+      "Researched by": "Anonymous Host",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 3.75,
+      "Number of Votes": 128,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "1971-1972",
+      "Country of Crime": "USA",
+      "State of Crime": "",
+      "City of Crime": "Washington DC",
+      "Number of Victims (Killed)": 6,
+      "Victim Name": "Carol Spinks, Darlenia Johnson, Brenda Crockett, Nenomoshia Yates, Brenda Woodward, Diane Williams",
+      "Age of Victim": "13, 16, 10, 12, 18, 17",
+      "Gender of Victim": "F, F, F, F, F, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Serial murder, rape, assault",
+      "Method of Crime": "Strangulation, stabbing"
+      },
+      "geometry": {
+        "x": 38.889484,
+        "y": -77.035278
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 122,
+      "Case Name": "Leeann Lapham",
+      "Episode Date (M/D/Y)": "8/24/2019",
+      "Length of Case": "1:00:42",
+      "Researched by": "Anonymous Host, Elsha McGill, Queensland Police Homicide Unit",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 3.62,
+      "Number of Votes": 121,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "4/19/2010",
+      "Country of Crime": "Australia",
+      "State of Crime": "Queensland",
+      "City of Crime": "Innisfail",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Leann Lapham",
+      "Age of Victim": 30,
+      "Gender of Victim": "F",
+      "Perpetrator": "Graeme Evans",
+      "Age of Perpetrator During Crime": 36,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Blunt force trauma"
+      },
+      "geometry": {
+        "x": -17.522626,
+        "y":  146.028522
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 123,
+      "Case Name": "Mark Kilroy",
+      "Episode Date (M/D/Y)": "9/7/2019",
+      "Length of Case": "1:09:11",
+      "Researched by": "Erin Munro",
+      "Written by": "Elsha McGill, Milly Raso",
+      "Episode Rating": 3.96,
+      "Number of Votes": 128,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "3/14/1989",
+      "Country of Crime": "Mexico",
+      "State of Crime": "Tamaulipas",
+      "City of Crime": "Matamoros",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Mark Kilroy",
+      "Age of Victim": 21,
+      "Gender of Victim": "M",
+      "Perpetrator": "Adolfo Constanzo /\nThe Narcosatanists",
+      "Age of Perpetrator During Crime": 26,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Ritual sacrifice, murder, torture, sodomy, cannibalism",
+      "Method of Crime": "Machete"
+      },
+      "geometry": {
+        "x": 25.869028,
+        "y": -97.502739
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 124,
+      "Case Name": "Hinterkaifeck",
+      "Episode Date (M/D/Y)": "9/14/2019",
+      "Length of Case": "1:02:29",
+      "Researched by": "Erin Munro",
+      "Written by": "Erin Munro",
+      "Episode Rating": 3.78,
+      "Number of Votes": 155,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "3/31/1922",
+      "Country of Crime": "Germany",
+      "State of Crime": "Bavaria",
+      "City of Crime": "Waidhofen",
+      "Number of Victims (Killed)": 6,
+      "Victim Name": "Andreas Gruber, Cazilia Gruber, Viktoria Gruber, Cazilia Gruber, Josef Gruber, Maria Baumgartner",
+      "Age of Victim": "63, 72, 35, 7, 2, 44",
+      "Gender of Victim": "M, F, F, F, M, F",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Bludgeoning, Mattock"
+      },
+      "geometry": {
+        "x": 48.5833,
+        "y": 11.3333
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 125,
+      "Case Name": "The Angels of Wynarka & Belanglo",
+      "Episode Date (M/D/Y)": "9/21/2019",
+      "Length of Case": "0:58:00",
+      "Researched by": "Alyssa Fletcher, Elsha McGill, Milly Raso",
+      "Written by": "Alyssa Fletcher, Elsha McGill, Milly Raso",
+      "Episode Rating": 3.84,
+      "Number of Votes": 129,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "12/1/2008",
+      "Country of Crime": "Australia",
+      "State of Crime": "Northern Territory",
+      "City of Crime": "Alice Springs",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Karlie Pearce-Stevenson, Khandalyce Pearce",
+      "Age of Victim": "20, 2",
+      "Gender of Victim": "F, F",
+      "Perpetrator": "Daniel James Holdom",
+      "Age of Perpetrator During Crime": 34,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": -23.700552,
+        "y": 133.882675
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 126,
+      "Case Name": "Johnny Altinger",
+      "Episode Date (M/D/Y)": "10/5/2019",
+      "Length of Case": "1:15:49",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.96,
+      "Number of Votes": 127,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/10/2008",
+      "Country of Crime": "Canada",
+      "State of Crime": "Alberta",
+      "City of Crime": "Edmonton",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Johnny Altinger",
+      "Age of Victim": 38,
+      "Gender of Victim": "M",
+      "Perpetrator": "Mark Twitchell",
+      "Age of Perpetrator During Crime": 29,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, dismemberment",
+      "Method of Crime": "Stabbing"
+      },
+      "geometry": {
+        "x": 53.631611,
+        "y": -113.323975
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 127,
+      "Case Name": "Killer Petey",
+      "Episode Date (M/D/Y)": "10/12/2019",
+      "Length of Case": "1:01:17",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.58,
+      "Number of Votes": 137,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1967-2003",
+      "Country of Crime": "Brazil",
+      "State of Crime": "",
+      "City of Crime": "",
+      "Number of Victims (Killed)": 71,
+      "Victim Name": "",
+      "Age of Victim": "",
+      "Gender of Victim": "",
+      "Perpetrator": "Pedro Podrigues Filho",
+      "Age of Perpetrator During Crime": "14-49",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": ""
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 128,
+      "Case Name": "Joan Vollmer",
+      "Episode Date (M/D/Y)": "10/19/2019",
+      "Length of Case": "1:08:45",
+      "Researched by": "Erin Munro",
+      "Written by": "Erin Munro",
+      "Episode Rating": 3.64,
+      "Number of Votes": 124,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1/30/1993",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Antwerp",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Joan Vollmer",
+      "Age of Victim": 49,
+      "Gender of Victim": "F",
+      "Perpetrator": "Ralph Vollmer, Leanne Reichenbach, David Klinger, Matthew Nuske",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "F, M, M, M",
+      "Type of Crime": "Abuse, exorcism",
+      "Method of Crime": "Heart attack, trauma"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 129,
+      "Case Name": "The Dupont de Ligonnes Family",
+      "Episode Date (M/D/Y)": "11/2/2019",
+      "Length of Case": "1:20:14",
+      "Researched by": "Erin Munro",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 4.1,
+      "Number of Votes": 148,
+      "Solved or Unsolved": "Solved (ongoing)",
+      "Date of Crime (M/D/Y)": "4/4/2011",
+      "Country of Crime": "France",
+      "State of Crime": "Loire-Atlantique",
+      "City of Crime": "Nantes",
+      "Number of Victims (Killed)": 5,
+      "Victim Name": "Agnes Dupont de Ligonnes, Arthur Nicolas Dupont de Ligonnes, Thomas Dupont de Ligonnes, Anne Dupont de Ligonnes, Benoit Dupont de Ligonnes",
+      "Age of Victim": "48, 20, 18, 16, 13",
+      "Gender of Victim": "F, M, M, F, M",
+      "Perpetrator": "Xavier Pierre Marie Dupont de Ligonnes",
+      "Age of Perpetrator During Crime": 50,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, disappearance",
+      "Method of Crime": "Shooting, drugging"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 130,
+      "Case Name": "Joe Cinque",
+      "Episode Date (M/D/Y)": "11/9/2019",
+      "Length of Case": "1:05:20",
+      "Researched by": "Jessica Forsayeth",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 3.8,
+      "Number of Votes": 102,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/26/1997",
+      "Country of Crime": "Australia",
+      "State of Crime": "",
+      "City of Crime": "Canberra",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Joe Cinque",
+      "Age of Victim": 26,
+      "Gender of Victim": "M",
+      "Perpetrator": "Anu Singh",
+      "Age of Perpetrator During Crime": 25,
+      "Gender of Perpetrator": "F",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Poisoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 131,
+      "Case Name": "Mr. Stinky",
+      "Episode Date (M/D/Y)": "11/16/2019",
+      "Length of Case": "1:27:22",
+      "Researched by": "Milly Raso, Erin Munro",
+      "Written by": "Milly Raso, Erin Munro",
+      "Episode Rating": 3.82,
+      "Number of Votes": 89,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "2/10/1966",
+      "Country of Crime": "Australia",
+      "State of Crime": "Victoria",
+      "City of Crime": "Shepparton",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Abina Madill, Garry Heywood",
+      "Age of Victim": "16, 18",
+      "Gender of Victim": "F, M",
+      "Perpetrator": "Raymond Edmunds",
+      "Age of Perpetrator During Crime": 22,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder, serial sexual assault",
+      "Method of Crime": "Shooting, bludgeoning"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 132,
+      "Case Name": "Rui Pedro Teixeira Mendonça",
+      "Episode Date (M/D/Y)": "11/30/2019",
+      "Length of Case": "1:10:32",
+      "Researched by": "Milly Raso, Erin Munro, Elsha McGill",
+      "Written by": "Milly Raso, Erin Munro, Elsha McGill",
+      "Episode Rating": 3.83,
+      "Number of Votes": 81,
+      "Solved or Unsolved": "Unsolved",
+      "Date of Crime (M/D/Y)": "3/14/1998",
+      "Country of Crime": "Portugal",
+      "State of Crime": "Porto District",
+      "City of Crime": "Lousada",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Rui Pedro Teixeira Mendonça",
+      "Age of Victim": 11,
+      "Gender of Victim": "M",
+      "Perpetrator": "Unknown",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Kidnapping, possible sexual abuse",
+      "Method of Crime": "Unknown"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 133,
+      "Case Name": "Tom & Eileen Lonergan",
+      "Episode Date (M/D/Y)": "12/7/2019",
+      "Length of Case": "1:15:46",
+      "Researched by": "Erin Munro",
+      "Written by": "Elsha McGill, Milly Raso",
+      "Episode Rating": 4.03,
+      "Number of Votes": 78,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "1/25/1998",
+      "Country of Crime": "Australia",
+      "State of Crime": "",
+      "City of Crime": "Coral Sea",
+      "Number of Victims (Killed)": 2,
+      "Victim Name": "Tom Lonergan, Eileen Lonergan",
+      "Age of Victim": "34, 29",
+      "Gender of Victim": "M, F",
+      "Perpetrator": "Geoffrey Ian \"Jack\" Nairn / Diving Team of Outer Edge",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "Unknown",
+      "Type of Crime": "Probable Drowning",
+      "Method of Crime": "Accidental Stranding"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 134,
+      "Case Name": "Martha Puebla",
+      "Episode Date (M/D/Y)": "12/14/2019",
+      "Length of Case": "1:05:33",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.73,
+      "Number of Votes": 64,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "5/12/2003",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Los Angeles",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Martha Puebla",
+      "Age of Victim": 16,
+      "Gender of Victim": "F",
+      "Perpetrator": "Raul Robledo",
+      "Age of Perpetrator During Crime": "Unknown",
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Gang murder",
+      "Method of Crime": "Shooting"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 135,
+      "Case Name": "The Santa Claus Bank Robbery",
+      "Episode Date (M/D/Y)": "12/21/2019",
+      "Length of Case": "1:01:42",
+      "Researched by": "Eileen Ormsby",
+      "Written by": "Eileen Ormsby",
+      "Episode Rating": 3.26,
+      "Number of Votes": 62,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "12/23/1927",
+      "Country of Crime": "USA",
+      "State of Crime": "Texas",
+      "City of Crime": "Cisco",
+      "Number of Victims (Killed)": 3,
+      "Victim Name": "George Carmichael, Tom Jones, GE Bedford",
+      "Age of Victim": "Unknown, 56, 60",
+      "Gender of Victim": "M, M, M",
+      "Perpetrator": "Marshall Ratliff, Henry Helms, Robert Hill, Louis Davis",
+      "Age of Perpetrator During Crime": "24, 30, unknown, unknown",
+      "Gender of Perpetrator": "M, M, M, M",
+      "Type of Crime": "Robbery",
+      "Method of Crime": "Shooting, impersonation"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 136,
+      "Case Name": "Azaria Chamberlain",
+      "Episode Date (M/D/Y)": "2/15/2020",
+      "Length of Case": "2:02:28",
+      "Researched by": "Erin Munro",
+      "Written by": "Elsha McGill, Erin Munro",
+      "Episode Rating": 4.38,
+      "Number of Votes": 39,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "8/17/1980",
+      "Country of Crime": "Australia",
+      "State of Crime": "Northern Territory",
+      "City of Crime": "Uluru",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Azaria Chantel Loren Chamberlain",
+      "Age of Victim": "67 days",
+      "Gender of Victim": "F",
+      "Perpetrator": "Dingo",
+      "Age of Perpetrator During Crime": "",
+      "Gender of Perpetrator": "",
+      "Type of Crime": "Animal attack",
+      "Method of Crime": "Animal attack"
+      },
+      "geometry": {
+        "x": 00000,
+        "y": 11111
+      }
+    },
+    {
+    "attributes": {
+      "Case Number": 137,
+      "Case Name": "Arlis Perry",
+      "Episode Date (M/D/Y)": "2/22/2020",
+      "Length of Case": "1:28:23",
+      "Researched by": "Jessica Forsayeth",
+      "Written by": "Elsha McGill",
+      "Episode Rating": 3.75,
+      "Number of Votes": 4,
+      "Solved or Unsolved": "Solved",
+      "Date of Crime (M/D/Y)": "10/12/1974",
+      "Country of Crime": "USA",
+      "State of Crime": "California",
+      "City of Crime": "Stanford",
+      "Number of Victims (Killed)": 1,
+      "Victim Name": "Arlis Kay Perry",
+      "Age of Victim": 19,
+      "Gender of Victim": "F",
+      "Perpetrator": "Stephen Blake Crawford",
+      "Age of Perpetrator During Crime": 28,
+      "Gender of Perpetrator": "M",
+      "Type of Crime": "Murder",
+      "Method of Crime": "Ice pick"
+    }
+  ]
+}

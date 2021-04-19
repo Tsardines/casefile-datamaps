@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "haley sulcer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/react-fontawesome": "^0.1.9",
+    "canvasjs": "^1.8.3",
+    "react": "^16.13.0",
+    "react-dom": "16.8.0-alpha.0",
+    "react-map-gl": "^5.2.3",
+    "react-svg": "^11.0.14",
+    "recharts": "^1.8.5"
+  }
 }

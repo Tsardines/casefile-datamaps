@@ -1,0 +1,122 @@
+{
+    "objectIdFieldName": "FID",
+    "uniqueIdField": {
+      "name": "FID",
+      "isSystemMaintained": true
+    },
+    "globalIdFieldName": "",
+    "geometryType": "esriGeometryPoint",
+    "spatialReference": {
+      "wkid": 4326,
+      "latestWkid": 4326
+    },
+    "fields": [
+      {
+        "name": "FID",
+        "type": "esriFieldTypeOID",
+        "alias": "FID",
+        "sqlType": "sqlTypeInteger",
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Trade_Name",
+        "type": "esriFieldTypeString",
+        "alias": "Trade_Name",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Concept",
+        "type": "esriFieldTypeString",
+        "alias": "Concept",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "LICENSE__T",
+        "type": "esriFieldTypeString",
+        "alias": "LICENSE__T",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Location",
+        "type": "esriFieldTypeString",
+        "alias": "Location",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "X",
+        "type": "esriFieldTypeDouble",
+        "alias": "X",
+        "sqlType": "sqlTypeFloat",
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Y_Coordina",
+        "type": "esriFieldTypeDouble",
+        "alias": "Y_Coordina",
+        "sqlType": "sqlTypeFloat",
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Website",
+        "type": "esriFieldTypeString",
+        "alias": "Website",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Twitter",
+        "type": "esriFieldTypeString",
+        "alias": "Twitter",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      },
+      {
+        "name": "Facebook",
+        "type": "esriFieldTypeString",
+        "alias": "Facebook",
+        "sqlType": "sqlTypeNVarchar",
+        "length": 254,
+        "domain": null,
+        "defaultValue": null
+      }
+    ],
+    "features": [
+      {
+        "attributes": {
+          "FID": 1,
+          "Trade_Name": "AD MARE MOBILE SEAFOOD INC",
+          "Concept": "Sustainable fish and seafood",
+          "LICENSE__T": "Vehicle",
+          "Location": "South side of slater East of O'Connor",
+          "X": 45.420304,
+          "Y_Coordina": -75.697689,
+          "Website": "http://admareseafood.com",
+          "Twitter": "@Ad_Mare",
+          "Facebook": "https://www.facebook.com/AdMareSeafood"
+        },
+        "geometry": {
+          "x": -75.69768899999998,
+          "y": 45.42030400000004
+        }      
+      }
+    ]
+  }
