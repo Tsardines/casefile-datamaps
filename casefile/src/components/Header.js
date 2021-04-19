@@ -14,7 +14,7 @@ import {
 
 
   export default class Header extends React.Component {
-    constructor(props) { // props
+    constructor(props) {
       super(props);
   
       this.toggle = this.toggle.bind(this);
@@ -30,7 +30,7 @@ import {
     render() {
       return (
 
-          <Navbar class="nav_container" dark expand="md">
+          <Navbar className="nav_container" dark expand="md">
 
             {/* <NavbarToggler onClick={this.toggle} /> */}
             <Collapse isOpen={this.state.isOpen} navbar>

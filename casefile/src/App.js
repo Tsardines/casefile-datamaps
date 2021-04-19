@@ -8,7 +8,7 @@ import "./components/Header.css";
 
 import Header from "./components/Header.js";
 import CrimeMap from "./components/CrimeMap.js";
-// import EpisodeRatings from "./components/EpisodeRatings.js";
+import EpisodeRatings from "./components/EpisodeRatings.js";
 
 import './App.css';
 
@@ -19,7 +19,7 @@ function App() {
         <Header />
           <Switch>
             <Route path="/map" component={CrimeMap} exact />
-            {/* <Route path="/ratings" component={EpisodeRatings} exact /> */}
+            <Route path="/ratings" component={EpisodeRatings} exact />
 
             {/* <Route component={error} /> */}
           </Switch>  
