@@ -17,6 +17,6 @@
     "react-dom": "16.8.0-alpha.0",
     "react-map-gl": "^5.2.3",
     "react-svg": "^11.0.14",
-    "recharts": "^1.8.5"
+    "recharts": "^2.1.14"
   }
 }
